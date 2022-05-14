@@ -1,0 +1,6 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 129127
+Denominação: Práticas Laboratoriais em Fertilidade do Solo
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: FAV-161021 Fertilidade do Solo e Adubação 

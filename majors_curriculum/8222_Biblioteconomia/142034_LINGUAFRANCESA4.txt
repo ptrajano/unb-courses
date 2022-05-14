@@ -1,0 +1,6 @@
+Órgão: LET - Departamento de Línguas Estrangeiras e Tradução
+Código: 142034
+Denominação: LINGUA FRANCESA 4
+Nível: Graduação
+Vigência: 1962/1
+Pré-req: LET-142026 LINGUA FRANCESA 3 

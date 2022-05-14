@@ -1,0 +1,6 @@
+Órgão: ADM - Departamento de Administração
+Código: 131563
+Denominação: Tópicos em Gestão da Tecnologia
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: ADM-181013 Introdução à Administração 

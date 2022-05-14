@@ -1,0 +1,6 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 122726
+Denominação: Estatística Experimental
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: EST-115070 Bioestatística 

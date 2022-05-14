@@ -1,0 +1,6 @@
+Órgão: TEC - Departamento de Tecnologia em Arquit. e Urbanismo
+Código: 204129
+Denominação: Sistemas Estruturais 2
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: TEC-201481 Sistemas Estruturais 1 

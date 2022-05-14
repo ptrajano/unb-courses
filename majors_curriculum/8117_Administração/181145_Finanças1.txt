@@ -1,0 +1,9 @@
+Órgão: ADM - Departamento de Administração
+Código: 181145
+Denominação: Finanças 1
+Nível: Graduação
+Vigência: 2011/1
+Pré-req: CCA-186791 Introdução à Contabilidade EADM-186201 CALCULO FINANCEIRO 
+Ementa: Introdução às finanças corporativas. Métodos de avaliação de ativos. Modelos de risco e retorno. Decisões estratégicas de investimento. Decisões estratégicas de financiamento.
+Programa: 1.A função financeira na empresa: objetivos, característica e áreas de atuação; a maximização do lucro; modalidades jurídicas das empresas.2.Estrutura e Análise das Demonstrações Financeiras: tipos e características e indicadores econômico-financeiros3.Sistema Orçamentário: tipos de orçamentos, objetivos, métodos de elaboração e acompanhamento e controle.4.Mercado Financeiro: histórico e objetivos; poupança, investimento e intermediação financeira - conceitos e inter-relações; estrutura e funcionamento do Sistema inanceiro Nacional; e os seguimentos do Mercado Financeiro.5.Pesquisa aplicada em finanças.6.Planejamento em Finanças. 7.Ética.
+Bibliografia: Bibliografia Básica. 1.	BERK, J., DEMARZO, P. Finanças Empresariais. Porto Alegre: Bookman, 2008.2.	 BRIGHAM, E.F., ERHARDT, M.C. Administração Financeira: Teoria e Prática. São Paulo: Cengage Learning, 2006.3.	GRINBLATT, M. & TITMAN, S. Mercados Financeiros & Estratégia Corporativa. 2. ed. Porto Alegre, Bookman, 2005.Bibliografia Complementar.1.	DAMODARAN, A. Gestão Estratégica do Risco. Porto Alegre: Bookman, 2009.2.	FORTUNA, E. Mercado Financeiro: produtos e serviços. Rio de Janeiro: Qualitymark, 2011. 3.	RANGEL, A. S., SANTOS, J. C. S, BUENO, R. L. S. Matemática dos Mercados Financeiros: à Vista e a Termo. São Paulo: Atlas, 2003.4.	ROSS, A. R., WESTERFIELD, R. W., JAFFE, J. F. Administração Financeira. São Paulo: Atlas, 2002.5.	SAMANEZ, C. P. Matemática Financeira. São Paulo: Makron Books, 2010 

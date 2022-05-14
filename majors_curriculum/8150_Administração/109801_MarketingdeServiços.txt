@@ -1,0 +1,8 @@
+Órgão: ADM - Departamento de Administração
+Código: 109801
+Denominação: Marketing de Serviços
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: ADM-181196 Administração de Marketing 
+Ementa: Planejamento em Marketing de Serviços. Marketing Estratégico. Composto de Marketing em serviços. Design de serviços e coprodução em serviços. Gerenciamento do Relacionamento com o Cliente. Qualidade, produtividade e liderança em serviço.
+Bibliografia: Bibliografia básica LOVELOCK, C.; WIRTZ, J.; HEMZO, M.A. Marketing de Serviços: pessoas, tecnologia e estratégia. São Paulo: Pearson Pren..ce Hall, 2011.~ZEITHML, V.A.; BITNER, M.J.; GREMLER, D.D. Marketing de Serviços: a empresa com foco no cliente. São Paulo: Bookman, 2014.HOFFMAN, K.D.; BATENSON, J.E.G. Princípios de Marketing de Serviços: conceitos, estratégias e casos. São Paulo: Cengage Learning, 2016.Bibliografia complementar EDVARDSSON, B.; GUSTAFSSON, A.; ROOS, I. Service portraits in service research: a critical review. International Journal of Service Industry Management, v.16.n.1, 2005.GALLOUJ, F.; WEINSTEIN, O. Innovation in services. Research Policy, v.26, n.4-5, 1997.LAS CASAS, A. Marketing de Serviços. São Paulo: Atlas, 2012.MANGINI, E.R.; URDAN, A.T.; SANTOS, A. Da qualidade em serviços à lealdade: perspectiva teórica do comportamento do consumidor. Revista Brasileira de Marketing, v. 16, n.2, 2017.

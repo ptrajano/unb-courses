@@ -1,0 +1,7 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 122769
+Denominação: Tecnologia e Controle de Qualidade dos Produtos Agropecuários
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: CEL-121240 BIOQUIMICA FUNDAMENTAL OUCEL-121011 BIOQUIMICA E BIOFISICA 
+Ementa: A disciplina apresenta os princípios dos principais métodos de conservação de alimentos e seus efeitos. Discute aspectos técnicos relacionados ao processamento de produtos agropecuários de origem animal e vegetal.

@@ -1,0 +1,9 @@
+Órgão: ADM - Departamento de Administração
+Código: 186503
+Denominação: PESQUISA DE MARKETING
+Nível: Graduação
+Vigência: 2003/2
+Pré-req: ADM-181196 Administração de Marketing EADM-186236 Metodologia Científic Aplicada 
+Ementa: Sistema de Informação de Marketing (S.I.M.): fontes de informação. Geração da Informação. Análise dos dados. A função da pesquisa e das informações de mercado. Principais áreas de aplicação da pesquisa de marketing. Etapas de um projeto de pesquisa de marketing. Aspectos éticos na pesquisa Marketing.
+Programa: 1.Sistema de Informações de Marketing - S.I.M.2.A função da pesquisa de marketing e das informações de mercado.3.Fatores que afetam a decisão de realizar a pesquisa de marketing.4.Principais áreas de aplicação da pesquisa de marketing.5.Processo de pesquisa de marketing (do projeto à ação).6.Etapas de um projeto de pesquisa de marketing.7.Fases que compõem as etapas de um projeto de pesquisa de marketing.8.A Ética na pesquisa de marketing.
+Bibliografia: Bibliografia BásicaMALHOTRA, N. K. Pesquisa de Marketing: uma orientação aplicada. 4ª ed. Porto Alegre: Bookman, 2006.MATTAR, F. N. Pesquisa de Marketing: Metodologia, planejamento, execução e análise.  (v. 1 e v. 2). São Paulo: Atlas, 2003.SAMARA, B.; BARROS, A. Pesquisa de marketing. São Paulo: Makron Books, 2003.Bibliografia Complementar AAKER, D.A.; KUMAR, V.; DAY, G. Pesquisa de Marketing. São Paulo: Atlas, 2001BABBIE, Earl. Métodos de pesquisas de Survey. Belo Horizonte: Ed. UFMG, 1999

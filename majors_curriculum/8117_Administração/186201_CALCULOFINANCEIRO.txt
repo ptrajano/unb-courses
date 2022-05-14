@@ -1,0 +1,9 @@
+Órgão: ADM - Departamento de Administração
+Código: 186201
+Denominação: CALCULO FINANCEIRO
+Nível: Graduação
+Vigência: 2003/2
+Pré-req: MAT-113034 Cálculo 1 OUMAT-113018 MATEMATICA 1 
+Ementa: Introdução à matemática financeira. Séries finitas de pagamentos discretos com capitalização periódica. Séries infinitas ou perpetuidades. Expressões da taxa de juros. Amortização de dívidas. Introdução à análise de investimentos. Introdução aos modelos de risco e retorno.
+Programa: 1.Introdução à Matemática Financeira: conceitos básicos, taxas de juro2.Capitalização simples3.Capitalização composta4.Estudo das taxas5.Desconto simples6.Desconto composto7.Equivalência de capitais diferidos com juros simples8.Equivalência de capitais diferidos com juros compostos 9.Rendas (séries de pagamentos)10.Inflação e correção monetária11.Sistemas de amortização de dívidas12.Engenharia econômica - análise financeira de alternativas de investimentos
+Bibliografia: Bibliografia Básica.1.	CASAROTTO FILHO, N. & KOPITTKE, B. H. Análise de Investimentos. 9. ed. São Paulo: Atlas, 2000.2.	RANGEL, A. S., SANTOS, J. C. S, BUENO, R. L. S. Matemática dos Mercados Financeiros: à Vista e a Termo. São Paulo: Atlas, 2003.3.	SAMANEZ, C. P. Matemática Financeira. São Paulo: Makron Books, 2010.Bibliografia Complementar.1.	BERK, J., DEMARZO, P. Finanças Empresariais. Porto Alegre: Bookman, 2008. 2.	BRIGHAM, E.F., ERHARDT, M.C. Administração Financeira: Teoria e Prática. São Paulo: Cengage Learning, 2006. 3.	DAMODARAN, A. Gestão Estratégica do Risco. Porto Alegre: Bookman, 2009.4.	GRINBLATT, M. & TITMAN, S. Mercados Financeiros & Estratégia Corporativa. 2. ed. Porto Alegre, Bookman, 2005 5.	ROSS, A. R., WESTERFIELD, R. W., JAFFE, J. F. Administração Financeira. São Paulo: Atlas, 2002.

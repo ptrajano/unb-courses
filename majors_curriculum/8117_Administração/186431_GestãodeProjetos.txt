@@ -1,0 +1,9 @@
+Órgão: ADM - Departamento de Administração
+Código: 186431
+Denominação: Gestão de Projetos
+Nível: Graduação
+Vigência: 2011/1
+Pré-req: ADM-186384 Introdução T Organizacionais 
+Ementa: Gerenciamento de projetos em organizações públicas e privadas contemporâneas. Avaliação e gestão de riscos.
+Programa: 1.Estruturação de projetos;2.Avaliação e gestão de riscos.3.Determinação do escopo de projetos;4.Gerenciamento da integração de projetos; 5.Gerenciamento de tempo de projetos; 6.Gerenciamento de custos do projeto.7.Gerenciamento da qualidade do projeto; 8.Gerenciamento de recursos humanos do projeto; 9.Gerenciamento das comunicações do projeto; 10.Gerenciamento de compras no âmbito do projeto. 11.Avaliando os resultados e impactos do projeto
+Bibliografia: Bibliografia BásicaGIDO, J.; CLEMENTS, J. P. Gestão de projetos. São Paulo: Thomson, 2006.HELDMAN, K. Gerência de projetos. Rio de Janeiro: Campus/Sybex, 2005.KERZNER, H.. Gestão de projetos: as melhores práticas. Porto Alegre: Bookman, 2006.Bibliografia ComplementarASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS - NBR ISSO 10006. Gestão da qualidade: diretrizes no gerenciamento de projetos. Rio de Janeiro: ABNT, 2000.MAXIMIANO, A. C. A. Administração de projetos: como transformar idéias em resultados. São Paulo: Atlas, 2002.MENEZES, L. C. M. Gestão de Projetos. São Paulo: Atlas, 2003.OLIVEIRA, D. P. R. Administração de processos: conceitos metodologias e práticas. São Paulo: Atlas, 2006PROJECT MANAGEMENT INSTITUTE, Um guia do conjunto de conhecimentos em gerenciamento de projetos. PMI. Newton Square: 2004.VALERIANO, D. Moderno Gerenciamento de Projetos. São Paulo: Pearson. 2005.

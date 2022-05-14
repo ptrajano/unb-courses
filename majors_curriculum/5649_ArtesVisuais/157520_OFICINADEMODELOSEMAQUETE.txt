@@ -1,0 +1,9 @@
+Órgão: DIN - Departamento de Design
+Código: 157520
+Denominação: OFICINA DE MODELOS E MAQUETE
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: Disciplina sem pré-requisitos
+Ementa: Estudo das técnicas de confecção de modelos, maquetes, mockups e protótipos em escala.
+Programa: Técnicas de confecção de modelos, maquetes, mockups e protótipos;Redução e ampliação de escala;Estudos dos recursos materiais e formas de aproveitamento;Utilização de diversos tipos de materiais;Acabamento e apresentação.             
+Bibliografia: Models & Prototypes: Clay, plaster, styrofoam. Ed. First, 1991.Consultar os vídeos e arquivos que serão postados ao longo da disciplina         

@@ -1,0 +1,9 @@
+Órgão: CCA - Depto de Ciências Contábeis e Atuariais
+Código: 186783
+Denominação: SISTEMAS CONTABEIS APLICADOS A ARQUIVOLOGIA
+Nível: Graduação
+Vigência: 2003/2
+Pré-req: Disciplina sem pré-requisitos
+Ementa: Informações empresariais. Linguagem contábil. Características das informações contábeis. Fluxo da informação contábil na empresa. Documentos contábeis. Prescrição dos documentos.
+Programa: 1.	Objetivos da organização - funções organizacionais, importância da informação para uma organização, necessidade de um sistema de informação empresarial (SIE).2.	Fluxo de informação na empresa - relação entre fluxo econômico e informação, a utilização de informação como instrumento para atingir os objetivos da organização;3.	Elaboração de um SIE, integração entre subsistemas, dificuldades na implantação de um SIE, relação custo benefício;4.	Sistemas de arquivo.5.	Informações contábeis - tipologia dos documentos contábeis, características e particularidades, aspectos práticos de guarda de documentos.6.	Auditoria Contábil. Aspectos legais de guarda dos documentos.
+Bibliografia: BIO, SERGIO RODRIGUES           SAO PAULO                               SISTEMAS DE INFORMACAO: UM ENFOQUE GERENCIAL    ED. ATLAS       1985    JOHNSON, H. THOMAS, KAPLAN,     SAO PAULO                               ROBERT                                                                  CONTABILIDADE GERENCIAL                         ED. CAMPUS      1993    COOPER, ROBIN, KAPLAN, ROBERT   ENGLEWOOD                               THE DESIGN OF COST MANAGEMENT                   ED. PRENTICE    1991    

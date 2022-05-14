@@ -1,0 +1,9 @@
+Órgão: FCI - Faculdade de Ciência da Informação
+Código: 182761
+Denominação: Projeto de Implantação de Sistemas Arquivisticos
+Nível: Graduação
+Vigência: 2012/2
+Pré-req: FCI-182753 ARQUIVO PERMANENTE 2 
+Ementa: Gerência de projetos. Fundamentos. Caracterização de projeto. Planejamento, execução, controle e encerramento. Aspectos gerenciais de uma instituição arquivística. Responsabilidade social. Responsabilidade profissional. Código de ética. Projeto de arquivo. 
+Programa: 1a. Parte - Caracterização do Projeto Aula 11 - Caracterização de Projetos Aula 12 - Caracterização do Produto Aula 13 - Gerência de Projeto  2a. Parte - Os processos e áreas de conhecimento Aula 21 - Visão Geral e Visão Detalhada Aula 22 - Metodologia PMBOK Aula 23 - Gerenciamento de Integração Aula 24 - Gerenciamento de Escopo Aula 25 - Gerenciamento de Tempo Aula 26 - Gerenciamento de Custos Aula 27 - Gerenciamento da Qualidade Aula 28 - Gerenciamento de Recursos Humanos Aula 29 - Gerenciamento de Comunicações Aula 210 - Gerenciamento de Riscos Aula 211 - Gerenciamento de Aquisições  3a. Parte - Gerenciamento do Conhecimento Aula 31 - Conceitos Aula 32 - Elementos de Análise Aula 33 - Práticas Aula 34 - Tecnologias Associadas  4a. Parte - Responsabilidade Profissional e Responsabilidade Social Aula 41 - Responsabilidade Social Aula 42 - Responsabilidade Profissional Aula 43 - Código de Ética  5a. Parte - Projeto de Implementação de Sistemas de Arquivos 
+Bibliografia: HELDMAN, Kim. Gerência de Projetos. Rio de Janeiro: Elservier, 2006. 3a. Edição. POSSI, Marcos (org). Gerenciamento de projetos: volume 2 - aspectos humanos e interpessoais. Rio de Janeiro: Brasport, 2006. 

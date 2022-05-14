@@ -1,0 +1,6 @@
+Órgão: DAP - Departamento de Audiovisuais e Publicidade
+Código: 149985
+Denominação: Direção de Atores
+Nível: Graduação
+Vigência: 2010/2
+Pré-req: DAP-145785 Oficina Básica de Audiovisual 

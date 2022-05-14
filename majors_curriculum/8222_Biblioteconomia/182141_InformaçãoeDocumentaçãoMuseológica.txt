@@ -1,0 +1,9 @@
+Órgão: FCI - Faculdade de Ciência da Informação
+Código: 182141
+Denominação: Informação e Documentação Museológica
+Nível: Graduação
+Vigência: 2010/1
+Pré-req: FCI-182401 ANALISE DA INFORMACAO EFCI-180963 Museologia 3 
+Ementa: Princípios e procedimentos para a criação de sistemas de gerenciamento de informação e acervos museológicos. Padrões internacionais de Documentação Museológica. Prática da Documentação Museológica. Laboratórios de Reservas Técnicas.
+Programa: 1. Dimensão teórica e prática das funções de pesquisa desenvolvida pelo campo da Museologia.2. Processamento e informação de acervos no âmbito da Documentação Museológica (coleções de objetos tangíveis e indicadores culturais intangíveis) e as relações entre campos e disciplinas existentes na atualidade.3. Documento no Museu.4. Padrões internacionais de Documentação Museológica.5. Vocabulário Controlado.6. Código de Ética da Museologia.7. Terminologia e suas atividades correlatas.8. Prática da Documentação Museológica; Inventário; Ficha Catalográfica; Descrição de Acervos; Numeração e Marcação de Acervos (Laboratório de Reservas Técnicas).
+Bibliografia: BIBLIOGRAFIA BÁSICAFERREZ, Helena D.; BIANCHINI, Maria Helena. Thesaurus para Acervos Museológicos. Rio de Janeiro: Fundação Pró-Memória, 1987. HERNÁNDEZ HERNÁNDEZ, Francisca. Manual de museología. Madrid: Editorial Síntesis, 2001. SECRETARIA de Estado da Cultura. Caderno de Diretrizes Museológicas. Belo Horizonte: Superintendência de Museus, 2006. BIBLIOGRAFIA COMPLEMENTARSantos, Fausto Henrique dos.  Metodologia aplicada em museus /   Fausto Henrique dos Santos ; apresentação Affonso Romano de Sant Anna ; colaboração Andréa Considera Rabello MARÍN TORRES, Maria Teresa. Historia de la documentación museológica: la gestión de la memória artística. Espanha:Trea, 2002. 

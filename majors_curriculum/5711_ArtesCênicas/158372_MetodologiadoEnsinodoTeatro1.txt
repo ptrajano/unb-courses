@@ -1,0 +1,6 @@
+Órgão: CEN - Departamento de Artes Cênicas
+Código: 158372
+Denominação: Metodologia do Ensino do Teatro 1
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: CEN-158151 Teor Proc Criat p/ Cena ECEN-158186 A Palavra em Performance ECEN-158224 Interpretação Teatral 2 ECEN-158283 Movimento e Linguagem 2 ECEN-158313 Encenação Teatral 1 OUCEN-153621 OF BASICA DE ARTES CENICAS 1 ECEN-153800 CORPO E MOVIMENTO 1 ECEN-153796 HISTORIA DO TEATRO 1 OUCEN-153630 OF BASICA ARTES CENICAS 2 ECEN-153800 CORPO E MOVIMENTO 1 ECEN-153796 HISTORIA DO TEATRO 1 

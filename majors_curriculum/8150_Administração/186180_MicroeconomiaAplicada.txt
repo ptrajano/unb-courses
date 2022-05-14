@@ -1,0 +1,9 @@
+Órgão: ADM - Departamento de Administração
+Código: 186180
+Denominação: Microeconomia Aplicada
+Nível: Graduação
+Vigência: 2011/1
+Pré-req: ECO-132012 Introdução à Economia EMAT-113034 Cálculo 1 OUECO-132012 Introdução à Economia EMAT-113018 MATEMATICA 1 
+Ementa: CONCEITOS ELEMENTARES DE MICROECONOMIA. DEMANDA E OFERTA, ELASTICIDADE, ESCOLHA DO CONSUMIDOR, MAXIMIZAÇÃO DA UTILIDADE, TEORIA DA FIRMA, TECNOLOGIA, MAXIMIZAÇÃO DOS RESULTADOS, eSTRUTURAS DE MERCADO.
+Programa: 1. A DEMANDA E A OFERTA.a)EQUILÍBRIO DE MERCADO.  b)AS REAÇÕES DO MERCADO. c)ELASTICIDADE2) TEORIA DO CONSUMIDOR.a)TEORIA DA UTILIDADE E DA ESCOLHA.b)MAXIMIZAÇÃO DA UTILIDADE COM RESTRIÇÕES3) TEORIA DA FIRMA.a)TECNOLOGIA.b)EFICIÊNCIA E PRODUTIVIDADE. c)FUNÇÃO PRODUÇÃO.d)ECONOMIA DE ESCALA E DE ESCOPO.e)CUSTOS.e)MAXIMIZAÇÃO DOS RESULTADOS.f)  COMPETÊNCIA PERFEITA, MONOPÓLIO E OLIGOPÓLIO.4) PROGRAMAÇÃO LINEAR
+Bibliografia: Bibliografia Básica.1.	PINDYCK, R. E RUBINFELD, D. 2010, Microeconomia. São Paulo: Makron Books do Brasil.2.	VARIAN, Hal R. Microeconomia: Princípios Básicos. 7. ed. Rio de Janeiro: Campus, 2006.3.	VASCONCELLOS, Marco A. S.; OLIVEIRA, Roberto Guena de. Manual de Microeconomia.3. ed. São Paulo: Atlas, 2008.Bibliografia Complementar.1.	Equipe de professores da USP. Manual de economia. 4ª ed.SP:Saraiva,2003. 2.	Holanda, N. Introdução à economia. Editora Vozes.2003.3.	James R. Mcguigan, R. Charles Moyer E Frederick H. De B. Harris; Economia de Empresas - Aplicações, Estratégia e Táticas. SP: Thomson Learning,2006.4.	MANSFIELD, Edwin & YOHE, Gary W. Microeconomia - Teoria e Aplicações. São Paulo: Saraiva. 2005.5.	WALSH, Carl & STIGLITZ, Joseph E. Introdução a Microeconomia. Rio de Janeiro:Campus. 2003.

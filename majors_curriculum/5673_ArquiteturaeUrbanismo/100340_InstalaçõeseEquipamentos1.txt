@@ -1,0 +1,6 @@
+Órgão: TEC - Departamento de Tecnologia em Arquit. e Urbanismo
+Código: 100340
+Denominação: Instalações e Equipamentos 1
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: PRO-154474 PROJETO ARQUITETONICO 1 

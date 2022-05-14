@@ -1,0 +1,6 @@
+Órgão: TEC - Departamento de Tecnologia em Arquit. e Urbanismo
+Código: 206113
+Denominação: Técnicas de Construção 1
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: Disciplina sem pré-requisitos

@@ -1,0 +1,8 @@
+Órgão: ADM - Departamento de Administração
+Código: 128660
+Denominação: Administração de Custos
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: CCA-186791 Introdução à Contabilidade EADM-181013 Introdução à Administração 
+Ementa: Custos fixos e variáveis, diretos e indiretos. Ponto de equilíbrio: análise custo - volume -lucro.Sistemas de Custeio: Custeio padrão. Custeio variável. Custeio por absorção. Custeio ABC – Acvity Based Costing. Margem de contribuição. Entendimento de demonstrativos financeiros. A gestão de custos como ferramenta de tomada de decisão.
+Bibliografia: Bibliografia Básica:BRUNI, Adriano Leal; FAMÁ Rubens. Gestão de custos e formação de preços: com aplicações na calculadora HP 12C e Excel. 5.ed. São Paulo: Atlas, 2000.GARRISON, R. H. NOREEN, E. W. Contabilidade gerencial. 14ª ed. Porto Alegre: AMGH, 2013.MARTINS, E. Contabilidade de custos. 10. ed. São Paulo: Atlas, 2010.Bibliografia complementar:BRIMSON, James A. Contabilidade por atividades: uma metodologia de custeio baseado em atividades.São Paulo: Atlas, 1996.GUERRA, Luciano. Manual de custos para o Exame de Suficiência. São Paulo: Atlas, 2014.HORNGREN, C. T.; FOSTER, G.; DATAR, S. M. Contabilidade de custos. . Volumes 1 e 2. 11. ed. Rio de Janeiro: LTC, 2004.MAHER, M. Contabilidade de custos: criando valor para a administração. São Paulo: Atlas, 2001.

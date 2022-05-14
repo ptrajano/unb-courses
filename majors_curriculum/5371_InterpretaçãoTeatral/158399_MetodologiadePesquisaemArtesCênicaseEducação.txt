@@ -1,0 +1,6 @@
+Órgão: CEN - Departamento de Artes Cênicas
+Código: 158399
+Denominação: Metodologia de Pesquisa em Artes Cênicas e Educação
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: PAD-194221 Organização Educ Brasileira EPED-125156 Desenv Psicológico e Ensino OUCEN-158381 Met Ens do Teatro 2 ETEF-191027 Psicologia da Educação 

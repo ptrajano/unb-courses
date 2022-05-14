@@ -1,0 +1,9 @@
+Órgão: FCE - UnB - Faculdade da Ceilândia
+Código: 170917
+Denominação: Introdução a Pesquisa Científica
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: Disciplina sem pré-requisitos
+Ementa:    A leitura como método, a compreensão do conceito de ciência, a natureza do conhecimento cientifico, o método cientifico, as normas para a apresentação de trabalhos científicos.
+Programa: 1. Leitura. 2. Análise de Textos. 3. Filosofia da Ciência - breve contexto histórico. 4. Ciência e conhecimento cientifico. 5. Método Cientifico. O que é pesquisa; 6. Bases metodológicas de explicação da realidade cientifica; 7. O processo de pesquisa. As etapas da investigação cientifica; a comunicação da pesquisa. As normas de apresentação, preparação de manuscrito (pré projeto).
+Bibliografia: Bibliografia Básica: 1. LAVILLE, Christian; DIONNE, Jean. A construção do saber: manual de metodologia da pesquisa em ciencias humanas. Belo Horizonte: Editora UFMG, 1999. 2. BARROS, Aidil Jesus da Silveira; LEHFELD, Neide Aparecida de Souza. Fundamentos de metodologia. 3. ed. São Paulo: Pearson Prentice Hall, 2007.3. PEREIRA, Mauricio Gomes. Epidemiologia: teoria e prática. Rio de Janeiro: Guanabara Koogan, 2010.Bibliografia Complementar: 1. CARVALHO, Maria Cecilia Maringoni de. Construindo o saber: metodologia científica : fundamentos e técnicas. 20. ed. São Paulo: Papirus, 2009.2. MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de metodologia científica. 6. ed. São Paulo: Atlas, 2005.3. HULLEY, Stephen B. Delineando a pesquisa clínica: uma abordagem epidemiológica. 3. ed. Porto Alegre: Artmed, 2008.4. SALOMON, Délcio Vieira. Como fazer uma monografia. 12. ed. São Paulo: WMF Martins Fontes, 2010.5. APPOLINÁRIO, Fábio. Dicionário de metodologia científica: um guia para a produção do conhecimento científico. São Paulo: Atlas, 2004.	

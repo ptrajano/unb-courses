@@ -1,0 +1,6 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 122661
+Denominação: Sistemas de Produção de Culturas Graníferas
+Nível: Graduação
+Vigência: 2017/2
+Pré-req: FAV-161021 Fertilidade do Solo e Adubação EFAV-176567 Manejo Integ Artropodes-Praga EFIT-122149 Fitopatologia 1 EBOT-122084 FISIOLOGIA VEGETAL EFAV-169994 Agrometeorologia  Climatologia 

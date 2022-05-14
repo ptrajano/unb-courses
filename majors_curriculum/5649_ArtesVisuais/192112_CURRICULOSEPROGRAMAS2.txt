@@ -1,0 +1,6 @@
+Órgão: MTC - Departamento de Métodos e Técnicas
+Código: 192112
+Denominação: CURRICULOS E PROGRAMAS 2
+Nível: Graduação
+Vigência: 1962/1
+Pré-req: MTC-192104 Currículo 

@@ -1,0 +1,6 @@
+Órgão: PAD - Departamento de Planejamento e Administração
+Código: 194158
+Denominação: LEGISLACAO DO ENSINO 2
+Nível: Graduação
+Vigência: 1962/1
+Pré-req: PAD-194140 LEGISLACAO DO ENSINO 1 

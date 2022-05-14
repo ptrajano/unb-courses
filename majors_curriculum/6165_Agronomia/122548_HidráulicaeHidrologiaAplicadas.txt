@@ -1,0 +1,6 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 122548
+Denominação: Hidráulica e Hidrologia Aplicadas
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: MAT-113026 MATEMATICA 2 EIFD-105368 Física teór p/ Ciênc Agrárias EIGD-112101 Topografia Fotogrametria EFAV-170143 FUNDAMENTOS CIÊNCIA DO SOLO EIFD-105376 Física Expe p/ Ciênc Agrárias 

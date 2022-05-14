@@ -1,0 +1,9 @@
+Órgão: PRO - Departamento de Projetos Expressão e Representação
+Código: 154857
+Denominação: PROGRAMACAO VISUAL APLICADA A ARQUITETURA E URBANISMO
+Nível: Graduação
+Vigência: 1996/2
+Pré-req: PRO-154491 Proj  Arquitetura - Habitação OUARQ-154245 EXPRESSAO REPRES DE PROJETO 1 EARQ-154032 PROJ EDIFICACAO E URBANISMO 3 
+Ementa: A disciplina visa fornecer ao estudante de arquitetura e urbanismo subsídios para uma iniciação à programação  visual do edifício e do espaço urbano, analisando como os elementos de comunicação visual podem integrar-se, interferir e até modificar estes espaços.
+Programa: ANALISE DO ESPACO SOB O PONTO DE VISTA DA PROGRAMACAO VISUAL.           INICIACAO AS TECNICAS DO DESENHO GRAFICO E DESENHO INDUSTRIAL.          PESQUISAS SOBRE PROCESSOS DE PRODUCAO E CONDICOES DO MERCADO.           CONHECIMENTO BASICO DOS MEIOS DE EXPRESSAO E REPRESENTACAO GRAFICA DE   PROJETOS DE PROGRAMACAO VISUAL.                                         FAMILIARIZACAO COM OS INSTRUMENTOS E MATERIAIS UTILIZADOS PARA A EXPRES-SAO E REPRESENTACAO.                                                    TECNICAS DE REPRESENTACAO.                                              
+Bibliografia: FAULKNER, WALDRON                                                       ARCHITECTURE AND COLOR                                                  DREYFUSS, HENRIY                                                        MANUAL DE SIMBOLS GRAFICOS                      ED. TECNOPRINT          CROSBY/FLETCHER/FORBES          LODON                                   A SIGN SITEMS MANUAL                            ED. ST. VISTA   1987    

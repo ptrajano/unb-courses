@@ -1,0 +1,8 @@
+Órgão: FCI - Faculdade de Ciência da Informação
+Código: 182648
+Denominação: ESTAGIO SUPERVISIONADO EM BIBLIOTECONOMIA 1
+Nível: Graduação
+Vigência: 2010/1
+Pré-req: FCI-182036 BIBLIOGRAFIA EFCI-182052 CATALOGACAO EFCI-182079 CLASSIFICACAO EFCI-182401 ANALISE DA INFORMACAO 
+Ementa:               VIVENCIA DA REALIDADE DE UMA UNIDADE DE INFORMACAO COM  A-  PLICACAO DOS CONHECIMENTOS TEORICOS E TECNICOS APREENDIDOS NAS RESPEC-  TIVAS DISCIPLINAS, OBSERVANDO DOS AJUSTES,ADAPTACOES E ADEQUACOES  NE-  CESSARIAS E POSSIVEIS AO SEU FUNCIONAMENTO.                           
+Programa:               O ALUNO DEVERA REALIZAR ESTA DISCIPLINA NA BIBLIOTECA CEN-  TRAL DA UNIVERSIDADE DE BRASILIA/UnB, NAS SEGUINTES SECOES:             1.0 - Selecao;                                                          2.0 - Processos Tecnicos;                                               3.0 - Multimeios;                                                       4.0 - Colecoes Especiais;                                               5.0 - Obras Raras;                                                      6.0 - Emprestimo.                                                     

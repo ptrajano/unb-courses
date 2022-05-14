@@ -1,0 +1,6 @@
+Órgão: PAD - Departamento de Planejamento e Administração
+Código: 194166
+Denominação: HIGIENE ESCOLAR
+Nível: Graduação
+Vigência: 1962/1
+Pré-req: PAD-194077 PRINCIPIOS MET DE ADM ESCOLAR 

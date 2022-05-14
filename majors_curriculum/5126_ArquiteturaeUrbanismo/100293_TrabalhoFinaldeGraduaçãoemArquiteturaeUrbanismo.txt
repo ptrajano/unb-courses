@@ -1,0 +1,6 @@
+Órgão: PRO - Departamento de Projetos Expressão e Representação
+Código: 100293
+Denominação: Trabalho Final de Graduação em Arquitetura e Urbanismo
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: PRO-154601 DESENHO E PLASTICA 2 EPRO-154555 PROJETO DE URBANISMO 2 ETHAU-154814 ENSAIO TEOR HIST ARQ E URB EPRO-154989 Intro Trab Final Graduação EPRO-155390 Proj Arq/Urb- Técn Retrosp EIGD-112984 Topografia OUPRO-154601 DESENHO E PLASTICA 2 EPRO-154555 PROJETO DE URBANISMO 2 ETHAU-127795 Inic Científica Arq e Urb EPRO-154989 Intro Trab Final Graduação EPRO-155390 Proj Arq/Urb- Técn Retrosp EIGD-112984 Topografia 

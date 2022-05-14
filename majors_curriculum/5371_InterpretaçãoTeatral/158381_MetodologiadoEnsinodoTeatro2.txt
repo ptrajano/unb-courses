@@ -1,0 +1,6 @@
+Órgão: CEN - Departamento de Artes Cênicas
+Código: 158381
+Denominação: Metodologia do Ensino do Teatro 2
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: CEN-158372 Met Ens do Teatro 1 ECEN-158194 Voz Palav Perf Teatr Comtemp 1 ECEN-158232 Interpretação Teatral 3 ECEN-158291 Movimento e Linguagem 3 ECEN-158321 Encenação Teatral 2 OUCEN-156639 INTRODUCAO A INTERPRETACAO ECEN-156442 CORPO E MOVIMENTO 2 ECEN-156949 Fund da Educação Artística OUCEN-156639 INTRODUCAO A INTERPRETACAO ECEN-156442 CORPO E MOVIMENTO 2 EMTC-191311 FUND DA ARTE NA EDUCACAO 

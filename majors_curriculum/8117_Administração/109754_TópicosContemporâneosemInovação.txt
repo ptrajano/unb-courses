@@ -1,0 +1,7 @@
+Órgão: ADM - Departamento de Administração
+Código: 109754
+Denominação: Tópicos Contemporâneos em Inovação
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: ADM-181013 Introdução à Administração 
+Ementa: EmentaA disciplina tem como objetivo abordar temas emergentes na área de inovação, portanto, terá a ementa e bibliografia definida no momento da oferta.

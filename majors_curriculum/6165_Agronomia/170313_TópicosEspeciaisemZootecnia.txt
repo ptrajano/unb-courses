@@ -1,0 +1,9 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 170313
+Denominação: Tópicos Especiais em Zootecnia
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: FAV-170160 ZOOTECNIA GERAL OUFAV-161411 ZOOTECNIA 1 OUFAV-161233 Anatomia e F dos A de Produção OUFAV-161632 NUTRICAO ANIMAL 
+Ementa: // ## // EMENTA VARIÁVEL A CADA SEMESTRE // ## //
+Programa: // ## // PROGRAMA VARIÁVEL A CADA SEMESTRE // ## //
+Bibliografia: // ## // BIBLIOGRAFIA VARIÁVEL A CADA SEMESTRE // ## //

@@ -1,0 +1,9 @@
+Órgão: FIT - Departamento de Fitopatologia
+Código: 122335
+Denominação: Bacteriologia Vegetal Aplicada
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: Disciplina sem pré-requisitos
+Ementa: Disciplina envolvendo trabalho experimental, a ser desenvolvida no Laboratório de Fitopatologia ou em Instituições credenciadas pela UnB com técnicas conduzindo a realização do trabalho final.
+Programa: o plano de trabalho será definido pelo professor.
+Bibliografia: A critério do professor.

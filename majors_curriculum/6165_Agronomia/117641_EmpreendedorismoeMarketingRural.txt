@@ -1,0 +1,6 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 117641
+Denominação: Empreendedorismo e Marketing Rural
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: ECO-132012 Introdução à Economia 

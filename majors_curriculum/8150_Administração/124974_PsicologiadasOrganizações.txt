@@ -1,0 +1,7 @@
+Órgão: PST - Departamento de Psicologia Social e do Trabalho
+Código: 124974
+Denominação: Psicologia das Organizações
+Nível: Graduação
+Vigência: 2019/1
+Pré-req: PST-124028 Psicologia Social 1 
+Ementa: Os contextos das organizações. Introdução teórica a tópicos relativos ao comportamento humano nas organizações: desempenho, motivação, emoções e afetos, cognições, vínculos, aprendizagem, socialização, satisfação, cultura e clima, grupos e equipes, poder e diversidade. Produção do conhecimento  e atuação profissional em psicologia organizacional.

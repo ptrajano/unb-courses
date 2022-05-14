@@ -1,0 +1,9 @@
+Órgão: BOT - Departamento de Botânica
+Código: 122581
+Denominação: PESQUISA EM FISIOLOGIA VEGETAL
+Nível: Graduação
+Vigência: 2011/1
+Pré-req: CEL-121240 BIOQUIMICA FUNDAMENTAL 
+Ementa:    EXECUCAO DE UM PEQUENO PROJETO DE PESQUISA NA AREA DE  FISIOLOGIA VE-VETAL.                                                                     OBS: 400-06-02                                                       
+Programa:    DEVERAO SER FEITOS UM LEVANTAMENTO BIBLIOGRAFICO, PLANEJAMENTO E EXE-CUCAO DE EXPERIMENTOS E UM RELATORIO FINAL COM A NALISE DOS  DADOS OBTI-DOS EXPERIMENTALMENTE.                                                  
+Bibliografia: ANNUAL REVIEW PLANT PHYSIOLOGY  STANTORT        ED. C. BRIGGS VARIOS                                    WASWIGTGN                               PLANT PHYSIOLOGY                                ED. AMERICAN                                                                SOC.                                                BRASILIA                                REVISTA BRASILEIRA DE FISIOLOGIA VEGETAL        ED. SOC. BRAS. PIS.                                                         VEGETAL VARIOS      REVISTA BRASILEIRIA BOTANICA    SAO PAULO       ED. SOC. BOT. DE SP                                                         VARIOS.             

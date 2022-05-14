@@ -1,0 +1,9 @@
+Órgão: MAT - Departamento de Matemática.
+Código: 113093
+Denominação: INTRODUCAO A ALGEBRA LINEAR
+Nível: Graduação
+Vigência: 2014/1
+Pré-req: Disciplina sem pré-requisitos
+Ementa: Sistemas lineares e matrizes; Espaços vetoriais; Produto interno;  Transformações lineares; Autovalores e autovetores; Diagonalização de operadores; Aplicações.
+Programa: 1. Sistemas lineares e matrizes: operações elementares e forma escada; inversão de matrizes por operações elementares; determinantes e suas propriedades2. Espaços vetoriais: vetores no plano e no espaço; espaços euclidianos R^2 e R^3; produto escalar; projeções; produto vetorial; volume de paralelepípedos; retas e planos; espaços e subespaços vetoriais; combinação linear, dependência e independência linear; base de um espaço vetorial3. Produto interno: definição de produto interno; exemplos; norma, ângulo entre vetores; processo de ortogonalização de Gram-Schmidt	4. Transformações lineares: transformações lineares do plano no plano; aplicações lineares e matrizes; mudança de base5. Autovalores e autovetores: definição de autovalores e autovetores; polinômio caracteristico6. Diagonalização de operadores: base de autovetores; transformações ortogonais7. Aplicações
+Bibliografia: Bibliografia Básica : H. Anton	Brasil	10ª       Álgebra Linear com Aplicações	Bookman	2012Boldrini et al	Brasil	3a          Álgebra Linear	Harbra	1986P. Halmos	Brasil	Espaços Vetoriais de Dimensão Finita	LTC 	Bibliografia Complementar :A. Steinbruch, P. Winterle	Brasil	Álgebra Linear	Pearson	A. Gonçalves & M. L. Rita	Brasil	Introdução à Álgebra Linear	Blucher	S. Lang	Brasil	Álgebra Linear	Ciência Moderna	2003K. Hoffman , R. Kunze	Brasil	Álgebra Linear	LTC	T. S. Blyth e E. F. Robertson		2a       Basic linear algebra	Springer	2002

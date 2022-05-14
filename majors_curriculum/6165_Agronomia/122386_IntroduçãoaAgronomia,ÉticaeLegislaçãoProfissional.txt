@@ -1,0 +1,6 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 122386
+Denominação: Introdução a Agronomia, Ética e Legislação Profissional
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: Disciplina sem pré-requisitos

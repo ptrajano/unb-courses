@@ -1,0 +1,6 @@
+Órgão: PRO - Departamento de Projetos Expressão e Representação
+Código: 206105
+Denominação: Projeto de Paisagismo 1
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: PRO-154491 Proj  Arquitetura - Habitação ETEC-201481 Sistemas Estruturais 1 

@@ -1,0 +1,6 @@
+Órgão: PRO - Departamento de Projetos Expressão e Representação
+Código: 208477
+Denominação: Conforto Térmico Ambiental 2
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: TEC-206091 Conforto Térmico Ambiental 1 

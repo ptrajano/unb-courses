@@ -1,0 +1,7 @@
+Órgão: DIN - Departamento de Design
+Código: 102733
+Denominação: Design de Jogos
+Nível: Graduação
+Vigência: 1989/1
+Pré-req: Disciplina sem pré-requisitos
+Ementa: EmentaTeoria e prática de desenvolvimento de projeto de jogos digitais interativos.ObjetivoCapacitar o aluno a determinar de maneira analítica a sucessão de etapas, principais técnicas e procedimentos necessários para o desenvolvimento de jogos.Conteúdo ProgramáticoDesign de Jogos / Design de Interação / Noções de Usabilidade e Arquitetura de Informação / Técnicas de ilustração e Animação para Jogos / Mecânica, Narrativa e Jogabilidade / Head Up Displays / Uso de sprite sheets, tilemapsMétodo didáticoAulas teóricas e práticas envolvendo trabalhos em grupo.

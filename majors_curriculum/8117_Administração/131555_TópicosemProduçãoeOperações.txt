@@ -1,0 +1,6 @@
+Órgão: ADM - Departamento de Administração
+Código: 131555
+Denominação: Tópicos em Produção e Operações
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: ADM-181013 Introdução à Administração 

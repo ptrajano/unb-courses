@@ -1,0 +1,6 @@
+Órgão: IB - Instituto de Ciências Biológicas
+Código: 120057
+Denominação: Educação  Ambiental Sustentável
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: Disciplina sem pré-requisitos

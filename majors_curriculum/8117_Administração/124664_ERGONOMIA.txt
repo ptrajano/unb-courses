@@ -1,0 +1,9 @@
+Órgão: PST - Departamento de Psicologia Social e do Trabalho
+Código: 124664
+Denominação: ERGONOMIA
+Nível: Graduação
+Vigência: 2014/1
+Pré-req: Disciplina sem pré-requisitos
+Ementa: História, conceitos, características e abordagens. Atividade e contexto de trabalho. Exigências do trabalho: física, cognitiva e afetiva. Ergonomia aplicada a projetos. Usuários, ambientes e instrumentos. Análise Ergonômica do Trabalho (AET)
+Programa:   UNIDADE I    -  CONCEITOS E CARACTERISTICAS DA ERGONOMIA                UNIDADE II   -  OS SISTEMAS HOMEMENS-MAQUINAS                           UNIDADE III  -  OS RITMOS BIOLOGICOS                                    UNIDADE IV   -  DADOS ANTROPOMETRICOS E BIOMECANICOS                    UNIDADE V    -  O AMBIENTE FISICO DO TRABALHO                         
+Bibliografia: GRANDJEAN, E.                   PARIS                                   PRECIS D'ERGONOMIE                              LES EDITIONS    1983    LAVILLE, A.                     S.PAULO                                 ERGONOMIA                                       EDUSP           1977    LEPLAT, J.                      PARIS                                   LA PSYCHOLOGIE ERGONOMIQUE                      PUF             1980    MONTMOLLIN, M.                  PARIS                                   LES SYSTEMES HOMMES-MACHINES                    PUF             1967    REGNIER, J.                     PARIS                                   L'AMELIORATION DES CONDITIONS DE TRAVAIS                                DANS L'INDUSTRIE.                               MASSON          1980    SCHERRER, J.                    PARIS                                   PRECIS DE PHYSICOLOGIE DU TRAVAIS. NO-                                  TIONS D'ERGONOMIE.                              MASSON          1981    

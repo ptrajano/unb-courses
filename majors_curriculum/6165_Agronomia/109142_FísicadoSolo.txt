@@ -1,0 +1,7 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 109142
+Denominação: Física do Solo
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: IFD-105368 Física teór p/ Ciênc Agrárias EIFD-105376 Física Expe p/ Ciênc Agrárias OUIFD-118001 Física 1 EIFD-118010 FISICA 1 EXPERIMENTAL EMAT-113034 Cálculo 1 OUMAT-113701 INTRO A MATEMATICA SUPERIOR EFAV-170143 FUNDAMENTOS CIÊNCIA DO SOLO OUIGD-112046 Pedologia OUEFL-165751 Fert do Solo e Nut de Plantas 
+Bibliografia: Bibliografia BásicaLibardi, P.L. 2000. Dinâmica da água no solo. Editado pelo autor.(4 cópias)van Lier, Q. de J. 2010. Física do solo. Sociedade Brasileira de Ciência do Solo.(0 cópias)Hillel, D. 1998. Environmental soil physics. Academic Press.(1 cópia)Bibliografia ComplementarPrevedello, C.L. 1995. Física do solo com problemas resolvidos. Editado pelo autor. CuritibaJury, W., Horton, R. 2004. Soil physics. Wiley, Estados Unidos.

@@ -1,0 +1,6 @@
+Órgão: TEC - Departamento de Tecnologia em Arquit. e Urbanismo
+Código: 155616
+Denominação: Aço e Arquitetura
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: TEC-154709 Sistemas Estruturais em Aço EPRO-154512 PROJ ARQUIT DE EDIF EM ALTURA 

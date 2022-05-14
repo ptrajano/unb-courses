@@ -1,0 +1,9 @@
+Órgão: EST - Departamento de Estatística
+Código: 115177
+Denominação: Análise de Regressão Linear
+Nível: Graduação
+Vigência: 2014/1
+Pré-req: EST-115151 INFERENCIA ESTATISTICA 
+Ementa: Formas Quadráticas. Regressão Linear Simples. Regressão Linear Múltipla. Métodos para seleção de variáveis. Diagnósticos. Aplicações
+Programa: - UNIDADE I - FORMAS QUADRÁTICAS: Conceitos e Classificação. Propriedades sob Normalidade. - UNIDADE II - REGRESSÃO LINEAR SIMPLES: O Modelo. Estimadores de Mínimos Quadrados e suas Propriedades. Estimadores de Máxima Verossimilhança e suas Propriedades.  Intervalos e Regiões de Confiança. Testes de Hipóteses para os Coeficientes. Previsão. Análise de Variância. Falta de Ajustamento. Análise de Resíduos.- UNIDADE III - REGRESSÃO LINEAR MÚLTIPLA: Notação Matricial. Estimadores de Mínimos Quadrados e de Máxima Verossimilhança. Intervalos e Regiões de Confiança.Previsão.  Análise de variância. Comparações entre Modelos Embutidos. Falta de Ajustamento. Análise de Resíduos. Critérios para Seleção de Variáveis. Variáveis Qualitativas. Variáveis Qualitativas.   Observações Atípicas na Variável Resposta. Observações Atípicas nas Variáveis Explicativas.   Observações Influentes. Multicolinearidade.- UNIDADE IV - APLICAÇÕES
+Bibliografia: Bibliografia Básica:- KUTNER, Michael H. Applied linear statistical models. 5th ed. Boston: McGraw-Hill Irwin, 2005. - DRAPER, Norman Richard; SMITH, Harry. Applied regression analysis. 3rd ed. New york: John Wiley & Son, 1998.- CHATTERJEE, S. e PRICE, B. Regression Analysis by Example. 2nd ed. Wiley, 1991. Bibliografia Complementar:- RYAN, T.P. Modern Regression Methods. Wiley, 1996.- HOCKING, R.R. Methods and Applications of Linear  Models: Regression and the Analysis of Variance. Wiley, 1996.- GRAYBILL, F.A. Theory and Application of the Linear Model. Wiley, 1976.

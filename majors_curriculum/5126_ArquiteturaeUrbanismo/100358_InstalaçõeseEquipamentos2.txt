@@ -1,0 +1,6 @@
+Órgão: TEC - Departamento de Tecnologia em Arquit. e Urbanismo
+Código: 100358
+Denominação: Instalações e Equipamentos 2
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: TEC-100340 Instalações e Equipamentos 1 

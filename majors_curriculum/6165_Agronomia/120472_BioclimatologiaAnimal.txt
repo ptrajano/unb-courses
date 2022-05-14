@@ -1,0 +1,8 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 120472
+Denominação: Bioclimatologia Animal
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: FAV-161632 NUTRICAO ANIMAL OUFAV-170160 ZOOTECNIA GERAL 
+Ementa: Relacionar a ação dos elementos climáticos sobre as características fisiológicas e produtivas dos animais domésticos, pelo estudo dos mecanismos de transferência térmica e do manejo ambiental visando a maximização da produção de animais de interesse zootécnico.
+Bibliografia: DA SILVA, R. G.; MAIA, A. S. C. Basic Physical Mechanisms. In:­­­______. (Ed.) 1. Principles of animal biometeorology. New York: Springer, 2013. p. 39-74.FERREIRA, R. A. Maior produção com melhor ambiente para aves, suínos e bovinos. Viçosa MG: Editora Aprenda Fácil, 2005, 371 p. il. ISBN: 85-7630-020-6PEREIRA, J. C. C. Fundamentos de bioclimatologia aplicados à produção animal. Belo Horizonte: FEPMVZ, 2005, 192 p. il. ISBN: 85-87144-19-7SILVA, R. G. Introdução à bioclimatologia animal. São Paulo SP: Nobel, 2000, 286 p. ISBN: 85-213- 1121-4BAÊTA, F. C. & SOUZA, C. F. Ambiência em edificações rurais – conforto animal. Ed. UFV. Universidade Federal de Viçosa. Viçosa, 1997.

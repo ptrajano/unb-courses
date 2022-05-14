@@ -1,0 +1,7 @@
+Órgão: THAU - Depto.de Teoria e Hist.em Arquitetura e Urbanismo
+Código: 154733
+Denominação: MORFOLOGIA ARQUITETONICA
+Nível: Graduação
+Vigência: 1996/2
+Pré-req: THAU-154750 HIST ARQUITETURA E DA ARTE 2 ETHAU-154008 INTRO ARQUITETURA E URBANISMO 
+Ementa: Introdução aos estudos em arquitetura. Configuração, morfologia e tipologia em arquitetura. Metodologia de representação das configurações arquitetônicas. Gramáticas formais. Morfologia arquitetônica em projeto, em ciência da construção e em estudos históricos. Análise morfológica de edifícios complexos.

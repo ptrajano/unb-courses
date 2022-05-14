@@ -1,0 +1,9 @@
+Órgão: MAT - Departamento de Matemática.
+Código: 200107
+Denominação: Cálculo 1 - Semipresencial
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: Disciplina sem pré-requisitos
+Ementa: 1. Função de uma variável real2. Limite e Continuidade3. Derivada4. Integral5. Aplicações da integral
+Programa: 1. Funções: conceito de função; exemplo de funções de uma variável real; tipos de funções; gráficos; função composta; função inversa; funções trigonométricas e suas inversas; função exponencial; função logaritmo2. Limite e continuidade: conceito de limite; propriedades dos limites; limites laterais; limites envolvendo o infinito; continuidade; Teorema do Valor Intermediário3. Derivadas: conceito de derivada; reta tangente e reta normal; derivadas laterais; regras básicas de derivação; regra da cadeia; taxas relacionadas; derivada da função inversa; derivação implícita; comportamento de funções; máximos e mínimos; Teorema do Valor Médio; regras de l’Hospital; concavidade, inflexão e gráficos; problemas de otimização4. Integrais: primitivas; integrais indefinidas e suas propriedades; integral definida e suas propriedades; Teorema Fundamental do Cálculo; integração por substituição; integração por partes; integração por frações parciais; integração de produtos de funções trigonométricas; integração por substituição inversa; integração por substituições especiais5. Aplicações da integral: aplicações da integral ao cálculo de áreas planas, comprimento de curvas, volumes e áreas de sólidos
+Bibliografia: Bibliografia Básica:G.B. Thomas, Cálculo Vol. 1, Pearson, 12ed/2013J. Stewart, Cálculo Vol. 1, Thomson, 2014H. Anton, Cálculo Vol. 1, Bookman, 8ed/2007 Bibliografia Comlementar:H. L. Guidorizzi, Um curso de cálculo, vol. 1, LTC, 5ed/2002G.S.S. Ávila, Cálculo Vols. 1, LTC, 7ed/2006L. Leithold, Cálculo com Geometria Analítica Vol. 2., Harbra, 3ed/1994Munen-Foulis, Cálculo Vol. 1, LTC, 1ed/1982Demidovich, Problemas e exercícios de análise, MIR

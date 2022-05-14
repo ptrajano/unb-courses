@@ -1,0 +1,6 @@
+Órgão: PRO - Departamento de Projetos Expressão e Representação
+Código: 100315
+Denominação: Projeto de Paisagismo 2
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: PRO-206105 Projeto de Paisagismo 1 

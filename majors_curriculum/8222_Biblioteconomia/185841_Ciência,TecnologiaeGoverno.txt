@@ -1,0 +1,6 @@
+Órgão: REL - Departamento de Relações Internacionais
+Código: 185841
+Denominação: Ciência, Tecnologia e Governo
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: IPOL-185035 Introdução à Ciência Política 

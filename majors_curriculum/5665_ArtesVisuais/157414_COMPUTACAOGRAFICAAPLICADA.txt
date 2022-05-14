@@ -1,0 +1,9 @@
+Órgão: DIN - Departamento de Design
+Código: 157414
+Denominação: COMPUTACAO GRAFICA APLICADA
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: Disciplina sem pré-requisitos
+Ementa: Introdução aos fundamentos, técnicas e instrumentos da computação gráfica aplicados ao design. Objetivos:Apresentar os fundamentos, técnicas e instrumentos da computação gráfica, a fim de aprimorar a capacidade individual dos alunos. 
+Programa: ObjetivosApresentar os fundamentos, técnicas e instrumentos da computação gráfica, a fim de aprimorar a capacidade individual dos alunos.  Conteúdo programáticoSoftwares gráficos / vetorização / bitmap / animação digital. 
+Bibliografia: FALLEIROS, Dario Pimentel. O mundo gráfico da informática, São Paulo: Futura, 2003. MARTINS, Nelson. A imagem digital na editoração. Rio de Janeiro: Senac, 2003. RIBEIRO, Milton. Planejamento visual gráfico. Rio de Janeiro: LGE, 2003.SCURI, Escaño. Fundamentos da Imagem Digital, Rio de Janeiro: Tecgraf/PUC-RJ, 1999.WONG, Wucius. Diseño gráfico digital. Barcelona: GG, 2004.

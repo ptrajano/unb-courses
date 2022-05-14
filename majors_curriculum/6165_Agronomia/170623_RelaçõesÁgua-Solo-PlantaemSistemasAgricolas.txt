@@ -1,0 +1,6 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 170623
+Denominação: Relações Água-Solo-Planta em Sistemas Agricolas
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: FAV-170283 HIDRÁULICA APLICADA EFAV-170143 FUNDAMENTOS CIÊNCIA DO SOLO 

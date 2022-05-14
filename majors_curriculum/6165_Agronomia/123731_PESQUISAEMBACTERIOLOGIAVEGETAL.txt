@@ -1,0 +1,9 @@
+Órgão: FIT - Departamento de Fitopatologia
+Código: 123731
+Denominação: PESQUISA EM BACTERIOLOGIA VEGETAL
+Nível: Graduação
+Vigência: 2011/1
+Pré-req: Disciplina sem pré-requisitos
+Ementa: Práticas em fitobacteriologia. Preparo de meios de Cultura. Isolamento de bactérias fitopatogênicas. Técnicas de plaqueamento. Inoculação de bactérias em plantas. Técnicas de diluição. Calibração de uma suspensão.  Determinação da concentração de células bacterianas. Técnicas para identificação de fitobactérias.
+Programa: Preparo de meios de cultura;Isolamento de bactérias fitopatogênicas de follhas;Isolamento de bactérias fitopatoênicas de frutos;Isolamento de bactérias fitopatogênicas de hastes;Técnicas se plaqueamento;Métodos de inoculação em plantas;Métodos de preservação;Técnicas de diluição;Calibração de suspensão bacteriana;Técnicas para determinação da concentração de células bacterianas;Técnicas para identificação de bactérias fitopatogênicas;Testes bioquímicos, fisiológicos e patológicos.AvaliaçãoRelatório das atividades desenvolvidas	
+Bibliografia: AGRIOS, G. N. Plant Pathology. (5ª ed..) New York. Academic Press. 2005.BERGAMIN FILHO et al. Manual de Fitopatologia (3ª ed.) São Paulo. Editora Agronômica Ceres. 1995. BERGEY'S MANUAL OF SYSTEMATIC BACTERIOLOGY. (2ª ed) vol. 2, Part A, B and C. 2005.BLUM, L. E. B. et al. Fitopatologia: O Estudo das Doenças de Plantas (1ª ed.). Brasília. Editora Otimismo. 2006.GOTO, M. Fundamentals of Bacterial Plant Pathology. San Diego. Academic Press. 1992.ROMEIRO, R. S. Bactérias Fitopatogênicas. Viçosa: UFV, Impr. Univ. 1995.SCHAAD, N. W., JONES, J. B. and CHUN, W. Laboratory Guide for Identification of Phytopatogenic Bacteria. 3nd ed. American Phytopathological Society. 2001.

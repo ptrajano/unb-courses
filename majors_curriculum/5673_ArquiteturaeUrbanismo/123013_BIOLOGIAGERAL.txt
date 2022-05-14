@@ -1,0 +1,9 @@
+Órgão: CEL - Departamento de Biologia Celular
+Código: 123013
+Denominação: BIOLOGIA GERAL
+Nível: Graduação
+Vigência: 2012/2
+Pré-req: Disciplina sem pré-requisitos
+Ementa: COMPREENSAO DO PROCESSO CIENTIFICO (LOGICA E NATUREZA DA CIENCIA) E DA  BIOLOGIA COMO CIENCIA EXPERIMENTAL. CRESCIMENTO, DESENVOLVIMENTO, MANU  TENCAO E ADAPTACAO DO ORGANISMO, DA POPULACAO E DO ECOSSISTEMA.         
+Programa: - CRESCIMENTO E DESENVOLVIMENTO DO ORGANISMO                            - MANUTENCAO DO ORGANISMO                                               - ADAPTACAO DO ORGANISMO                                                - CRESCIMENTO DA POPULACAO                                              - MANUTENCAO DA POPULACAO                                               - ADPTACAO DA POPULACAO                                                 - DESENVOLVIMENTO DO ECOSSISTEMA                                        - MANUTENCAO DO ECOSSISTEMA                                             - ADAPTACAO DO ECOSSISTEMA                                              
+Bibliografia: BAKER, J.J.W. & ALLEN, G.E.     SP              2a. ED.                 ESTUDO DA BIOLOGIA              E. BLUCHER                      1975    VALADARES, M.E.B. & PAIXAO,N.G.ARJ                                      CALDAS, L.S.; ROCHA, A.J.; SILVA , C. P.                                PRINCIPIOS BIOLOGICOS: UMA INTRODUCAO           UNB             1978    CURTIS, H.                      RJ                                      BIOLOGIA                                        G. KOOGAN       1977    

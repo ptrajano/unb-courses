@@ -1,0 +1,6 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 122645
+Denominação: Sistemas de Produção de Culturas Energéticas e Fibrosas
+Nível: Graduação
+Vigência: 2018/0
+Pré-req: FAV-161021 Fertilidade do Solo e Adubação EFAV-176567 Manejo Integ Artropodes-Praga EFIT-122271 FITOPATOLOGIA 2 EBOT-122084 FISIOLOGIA VEGETAL EFAV-169994 Agrometeorologia  Climatologia 

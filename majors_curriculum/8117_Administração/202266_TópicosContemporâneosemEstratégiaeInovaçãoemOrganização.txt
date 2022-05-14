@@ -1,0 +1,9 @@
+Órgão: ADM - Departamento de Administração
+Código: 202266
+Denominação: Tópicos Contemporâneos em Estratégia e Inovação em Organização
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: ADM-181013 Introdução à Administração 
+Ementa: Para inovar é preciso conhecer quais os processos que mais afetam o resultado de seus serviços e a sobrevivência da organização ou de pessoas cujas necessidades de serviços são atendidas pela organização. Uma das técnicas que ajudam a selecionar o que é mais crítico é a TIC (Técnica do Incidente Crítico). E a partir dessa seleção dar-se a partida ao reconhecimento da situação atual do funcionamento desses processos críticos. O detalhamento pormenorizado é quantificado dessa situação atual irá permitir a compração entre a mesma e os Benchmarks de sua área ou indústria correspondente. Com esse contraste, a conveniência da inovação fica mais fácil de ser aceita, estimulando assim a proposição de uma melhor distribuição de recursos entre as diversas atividades que compõem os processos. O tratamento desses gargalos será feito mediante análise da cadeia de adição e de valor ao cliente, utilizando representações gráficas capazes de visualizar o intangível e representar a interação entre estruturas, processos, pessoas e tencnologia. O desenvolvimento do curso estará apoiado notadamente em experiências na área de saúde e terá por propósito o ataque de problemas concretos, além da busca de oportunidades desafiadoras.
+Programa: Definido de acordo com o tema
+Bibliografia: Bibliografia:Básica A ser definida de acordo com o conteúdo propostoBibliografia Complementar	A ser definida de acordo com o conteúdo proposto

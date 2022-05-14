@@ -1,0 +1,7 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 129771
+Denominação: Jardinagem
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: BOT-122084 FISIOLOGIA VEGETAL OUPRO-154571 Projeto Paisagístico 1 OUPRO-206105 Projeto de Paisagismo 1 OUBOT-204498 Diversidade Vegetal OUFCE-180416 FARMACOBOTÂNICA OUBOT-122696 Org Sist Fanerofítica 
+Ementa: Conceito de jardinagem; Mercado profissional; Plantas ornamentais, medicinais e aromáticas; Gramados; Arvores; Técnicas de cultivo e serviços de implantação e manutenção de áreas verdes; Vivericultura; Rega e Irrigação; Elementos Construídos; Materiais de acabamento; Orçamento; Leitura de projeto paisagístico.

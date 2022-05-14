@@ -1,0 +1,6 @@
+Órgão: DEG - Decanato de Ensino de Graduação
+Código: 105635
+Denominação: Programa Institucional de Bolsa de Iniciação à Docência
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: Disciplina sem pré-requisitos

@@ -1,0 +1,6 @@
+Órgão: TEC - Departamento de Tecnologia em Arquit. e Urbanismo
+Código: 155527
+Denominação: Gestão Ambiental Urbana
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: TEC-155322 INFRA-ESTRUTURA URBANA 

@@ -1,0 +1,6 @@
+Órgão: FCI - Faculdade de Ciência da Informação
+Código: 182419
+Denominação: REPROGRAFIA
+Nível: Graduação
+Vigência: 2010/1
+Pré-req: Disciplina sem pré-requisitos

@@ -1,0 +1,9 @@
+Órgão: PRO - Departamento de Projetos Expressão e Representação
+Código: 154822
+Denominação: GEOMETRIA DA FORMA
+Nível: Graduação
+Vigência: 1996/2
+Pré-req: Disciplina sem pré-requisitos
+Ementa: Aplicações de helicoidais, interseções de sólidos e construções por meio de geometria projetiva e projeto de construção de protótipos objetivando a manipulação espacial de objetos estudados.
+Programa: 1. PERCURSOS                                                               1.1. HELICE CILINDRICA NORMA;                                           1.2. SUPERFICIES HELICOIDAIS                                            1.3. ASSOCIACOES;                                                       1.4. PERCURSOS;                                                         1.5. TANGENTES;                                                         1.6. CONCORDANCIAS;                                                     1.7. METODOS DE CALCULO.                                             2. INTERSECCOES DE SOLIDOS                                                 2.1. INTERSECCAO DE RETA E PLANO                                        2.2. INTERSECCAO DE RETA E SOLIDO                                       2.3. INTERSECCAO DE SOLIDOS (METODO)                                    2.4. PLANIFICACAO E CONSTRUCAO DOS SOLIDOS E DA SUPERFICIE COMUM        2.5. PROTOTIPOS                                                      3. SOLIDOS                                                                 3.1. CUBO                                                               3.2. ROMBI-CUBO                                                         3.3. FRACOES                                                            3.4. CONSTRUCOES ESPACIAIS                                           
+Bibliografia: GOLUBOV, JAYME KERBEL           BRASILIA        2A. ED.                 ESTUDOS DE GEOMETRIA DESCRITIVA                 ED. UNB         1988    

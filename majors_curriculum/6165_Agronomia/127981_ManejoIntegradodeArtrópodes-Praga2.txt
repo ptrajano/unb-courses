@@ -1,0 +1,6 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 127981
+Denominação: Manejo Integrado de Artrópodes-Praga 2
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: ZOO-123293 ENTOMOLOGIA 

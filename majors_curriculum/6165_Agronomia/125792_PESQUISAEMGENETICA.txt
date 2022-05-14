@@ -1,0 +1,9 @@
+Órgão: GEM - Departamento de Genética e Morfologia
+Código: 125792
+Denominação: PESQUISA EM GENETICA
+Nível: Graduação
+Vigência: 2011/1
+Pré-req: Disciplina sem pré-requisitos
+Ementa:          ELABORACAO DE PROJETO A SER DESENVOLVIDO DURANTE  A DISCIPLINA.  TREINAMENTO EM TECNICAS. COLETA E ANALISE DE DADOS. CONSULTA A BIBLIO-  GRAFIA ESPECIALIZADA. eLABORACAO DE RELATORIO.                        
+Programa:   1.0 - Definicao de problema biologico a ser abordado.                   2.0 - Treinamento nas tecnicas apropridas para gerar dados.             3.0 - Coleta e analise dos dados obtidos.                               4.0 - Discussao dos resultados.                                         5.0 - Confeccao de relatorio.                                         
+Bibliografia: Bibliografia BásicaSnustad, D. P.; Simmons, M. J. Fundamentos de Genética, 4a edição. Editora Guanabara Koogan, 2008.Griffiths, A. J. F.; Wessler, S.; Lewontin, R. C; Carrol, S. Introdução à Genética, 9a edição. Editora Guanabara Koogan, 2009. Bibliografia ComplementarPeriódicos científicos diversos (Animal Genetics, Brazilian Journal of Genetics, Conservation Genetics, Genetics, Heredity, Journal of Human Genetics, Molecular Ecology, Nature Genetics, Plant Molecular Biology, Trends in Ecology and Evolution, etc)

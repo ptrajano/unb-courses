@@ -1,0 +1,130 @@
+8117 - Administração
+8150 - Administração
+6165 - Agronomia
+5126 - Arquitetura e Urbanismo
+5673 - Arquitetura e Urbanismo
+8192 - Arquivologia
+5711 - Artes Cênicas
+5371 - Interpretação Teatral
+5720 - Artes Cênicas
+1376 - Artes Visuais
+5649 - Artes Visuais
+5665 - Artes Visuais
+8222 - Biblioteconomia
+2771 - Biotecnologia
+1856 - Ciência da Computação
+8591 - Ciência Política
+2321 - Ciências Ambientais
+2216 - Ciências Biológicas
+2259 - Ciências Biológicas
+8516 - Ciências Contábeis
+8583 - Ciências Contábeis
+3221 - Ciências Econômicas
+3131 - Antropologia
+3115 - Ciências Sociais
+3166 - Ciências Sociais
+3123 - Sociologia
+1899 - Computação
+8354 - Audiovisual
+8338 - Publicidade e Propaganda
+8362 - Comunicação Organizacional
+5380 - Programação Visual
+5398 - Projeto do Produto
+8486 - Direito
+8885 - DIREITO
+7315 - Educação Física
+60810 - Educação Física
+7412 - Enfermagem
+6254 - Engenharia Ambiental
+6220 - ENGENHARIA CIVIL
+1741 - Engenharia de Computação
+6017 - Engenharia de Produção
+6351 - Engenharia de Redes de Comunicação
+6335 - ENGENHARIA ELÉTRICA
+6521 - ENGENHARIA FLORESTAL
+6424 - ENGENHARIA MECÂNICA
+6912 - Controle e Automação
+60844 - Engenharia Química
+1716 - Estatística
+7692 - Farmácia
+7609 - Farmácia
+3336 - Filosofia
+3344 - Filosofia
+3352 - Filosofia
+1112 - Física
+1147 - Física
+1236 - Geofísica
+3841 - Geografia
+3859 - Geografia
+1228 - Geologia
+6262 - Gestão de Agronegócios
+8184 - Gestão de Políticas Públicas
+3417 - História
+3425 - História
+3476 - História
+850 - Jornalismo
+4219 - Língua Francesa e Respectiva Literatura
+4227 - Língua Francesa e Respectiva Literatura
+4316 - Língua Inglesa e Respectiva Literatura
+4324 - Língua Inglesa e Respectiva Literatura
+4111 - Língua Portuguesa e Respectiva Literatura
+4120 - Língua Portuguesa e Respectiva Literatura
+4430 - Português do Brasil como Segunda Língua
+4146 - Língua Portuguesa e Respectiva Literatura
+4154 - Língua Espanhola e Literatura Espanhola e Hispano-Americana
+4553 - Língua e Literatura Japonesa
+4529 - Francês
+4511 - Inglês
+4626 - Espanhol
+698 - Língua de Sinais Brasileira - Português como Segunda Língua
+4090 - Línguas Estrangeiras Aplicadas - MSI
+1325 - Matemática
+1341 - Matemática
+1368 - Matemática
+7111 - Medicina
+6181 - Medicina Veterinária
+8265 - Museologia
+5223 - Canto
+5541 - Clarineta
+5614 - Composição
+5266 - Contrabaixo
+5576 - Fagote
+5584 - Flauta
+5550 - Oboé
+5592 - Piano
+5622 - Regência
+5274 - Saxofone
+5631 - Trombone
+5568 - Trompa
+5258 - Trompete
+5525 - Viola
+5282 - Violão
+5517 - Violino
+5533 - Violoncelo
+434 - Música
+5606 - Música
+7510 - Nutrição
+7218 - ODONTOLOGIA
+9229 - Pedagogia
+9245 - Pedagogia
+2712 - Psicologia
+2721 - Psicologia
+2739 - Psicologia
+1449 - Química
+1503 - Química
+1589 - Química Tecnológica
+3727 - Relações Internacionais
+7161 - Saúde Coletiva
+3514 - Serviço Social
+3522 - Serviço Social
+60828 - Teoria, Crítica e História da Arte
+6271 - Turismo
+4936 - Artes Visuais
+2313 - Ciências Biológicas
+7323 - Educação Física
+931 - Física
+3867 - Geografia
+4910 - Língua Portuguesa e Respectiva Literatura
+5509 - Música
+9296 - Pedagogia
+5151 - Teatro

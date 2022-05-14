@@ -1,0 +1,6 @@
+Órgão: TEC - Departamento de Tecnologia em Arquit. e Urbanismo
+Código: 100307
+Denominação: Sistemas Estruturais em Concreto Armado 2
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: TEC-206083 Sistemas Est Concreto Armado 1 

@@ -1,0 +1,6 @@
+Órgão: CEN - Departamento de Artes Cênicas
+Código: 158305
+Denominação: Movimento e Linguagem 4
+Nível: Graduação
+Vigência: 2012/2
+Pré-req: CEN-158291 Movimento e Linguagem 3 OUCEN-156451 CORPO E MOVIMENTO 3 OUCEN-156493 EXPRESSAO CORPORAL 4 

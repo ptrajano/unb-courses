@@ -1,0 +1,6 @@
+Órgão: TEC - Departamento de Tecnologia em Arquit. e Urbanismo
+Código: 206091
+Denominação: Conforto Térmico Ambiental 1
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: TEC-154652 EST AMBIENTAIS-BIOCLIMATISMO 

@@ -1,0 +1,6 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 122424
+Denominação: Horticultura Geral
+Nível: Graduação
+Vigência: 1988/1
+Pré-req: FAV-161021 Fertilidade do Solo e Adubação EFAV-169994 Agrometeorologia  Climatologia EBOT-122084 FISIOLOGIA VEGETAL EFIT-126012 FITOPATOLOGIA GERAL 

@@ -1,0 +1,9 @@
+Órgão: ADM - Departamento de Administração
+Código: 109762
+Denominação: Inovação em Serviços
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: ADM-186066 Gestão da Inovação 
+Ementa: Características e definição de serviços. Teoria da inovação e os serviços. Abordagens teóricas sobre o processo de inovação em serviços. Tipos de inovação e modelos de inovação em serviços. Desenvolvimento de novos serviços: organização, aprendizado, competências e estratégias de inovação em serviços. Serviços e sistemas de inovação. Políticas públicas para inovação em serviços. Indicadores para a inovação em serviços. Tópicos Avançados em inovação em serviços.
+Programa: A criação desta disciplina facilitará a inserção do tema da Inovação em Serviços em pesquisas realizadas para elaboração das monografias dos alunos do ADM contribuirá para a formação de alunos capazes de reconhecer a importância, participação e dinâmica da inovação nos setores de serviços, hoje responsáveis por mais de 70% do PIB brasileiro.
+Bibliografia: Bibliografia Básica    1. KON, Anita. Economia de Serviços: teoria e evolução no Brasil. Rio de Janeiro: Editora Campus, 2004. ;    2. SALERNO, Mário Sérgio. Relação de Serviço: produção e avaliação. São Paulo: Editora Senac São Paulo, 2001. ;    3. BERNARDES, Roberto; ANDREASSI, Tales (org). Inovação em serviços intensivos em conhecimento. São Paulo: Saraiva, 2007.Bibliografia Complementar    1. DE NEGRI, João Alberto; KUBOTA, Luis Cláudio (org). Estrutura e dinâmica do setor de serviços no Brasil. Brasília: IPEA, 2006. ;    2. GRÖNROOS, Christian. Marketing: gerenciamento e serviços – a competição por serviços na Hora da Verdade. Rio de Janeiro: Campus, 1993. ;    3. TEBOUL, James. Serviços em cena: o diferencial que agrega valor ao seu negócio. Brasília: IEL/NC; Rio de Janeiro: Elsevier, 2008.

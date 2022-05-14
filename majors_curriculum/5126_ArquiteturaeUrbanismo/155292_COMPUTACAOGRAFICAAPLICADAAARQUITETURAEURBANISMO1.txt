@@ -1,0 +1,8 @@
+Órgão: PRO - Departamento de Projetos Expressão e Representação
+Código: 155292
+Denominação: COMPUTACAO GRAFICA APLICADA A ARQUITETURA E URBANISMO 1
+Nível: Graduação
+Vigência: 1996/2
+Pré-req: PRO-154474 PROJETO ARQUITETONICO 1 
+Ementa: Conceitos básicos em Microinformática. Fundamentos de Sistemas Operacionais. Conceitos básicos em Computação Gráfica e suas aplicações em CAD (Computer Aided Design). Conceitos, comandos, funções e utilização de sistemas de desenho assistido por computador. Metodologia de desenvolvimento de projetos em sistemas assistidos por computador. Criação, armazenamento e manipulação de desenhos bi e tridimensionais. Elaboração de biblioteca de símbolos. Desenvolvimento de projeto final com utilização da biblioteca de símbolos criada.
+Bibliografia: VELLOSO, FERNANDO DE CASTRO     SAO PAULO                               INFORMATICA                                     ED. CAMPUS      1986    GOBBI, CRISTINA                 BRASILIA                                INTRODUCAO A INFORMATICA                        IA              1989    BANON, GERALD J. F.             RIO DE JANEIRO                          BASES DA COMPUTACAO GRAFICA                     ED. CAMPUS      1989    

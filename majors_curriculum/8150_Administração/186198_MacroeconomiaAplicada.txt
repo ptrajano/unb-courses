@@ -1,0 +1,9 @@
+Órgão: ADM - Departamento de Administração
+Código: 186198
+Denominação: Macroeconomia Aplicada
+Nível: Graduação
+Vigência: 2011/1
+Pré-req: ECO-132012 Introdução à Economia EMAT-113034 Cálculo 1 OUECO-132012 Introdução à Economia EMAT-113018 MATEMATICA 1 
+Ementa: CONCEITOS ELEMENTARES DE MACROECONOMIA. CONTABILIDADE RACIONAL, DEMANDA E OFERTA AGREGADA, EQUILÍBRIO MACROECONÔMICO, JUROS, INFLAÇÃO, POLÍTICA FISCAL, MONETÁRIA, CAMBIAL  E CRESCIMENTO ECONÔMICO.
+Programa: 1.AS CONTAS NACIONAIS. 2.DETERMINAÇÃO DA RENDA E DO PRODUTO: FUNÇÕES CONSUMO, POUPANÇA E INVESTIMENTO.3.DEMANDA  DO GOVERNO: POLÍTICA FISCAL. 4.DEMANDA EXTERNA. IMPORTAÇÕES E EXPORTAÇÕES. TAXA DE CÂMBIO E AJUSTAMENTO DO BALANÇO DE PAGAMENTO5.DEMANDA E OFERTA AGREGADA, EMPREGO E PREÇOS. AS VISÕES NOVO-CLÁSSICAS E NOVO-KEYNESIANAS. 6.MOEDA, PREÇO E JUROS. EQUILÍBRIO GERAL (MODELO IS/LM ) E AS POLÍTICAS MONETÁRIAS E FISCAL. O MODELO MUNDELL-FLEMING.7.DISTRIBUICAO DE RENDAS;  ACUMULACAO E CRESCIMENTO. 8.O PAPEL DO ESTADO NO PROCESSO DE DESENVOLVIMENTO ECONOMICO
+Bibliografia: Bibliografia Básica.1.	MANKIW N. Gregory. Macroeconomia. Ed. LTC. 7ª Ed. 2010.2.	BLANCHARD OLIVIER. Macroeconomia. Ed. Pearson Prentice Hall. 5ª ed. 2011. 3.	SACHS, Jeffrey D. & LARRAIN, Felipe B. Macroeconomia. Ed. Makron. 2000 .Bibliografia Complementar.1.	DORNBUSH, R.; FISCHER, S. e STARTZ, R. Macroeconomia. 8ª ed. Ed. McGraw-Hill do Brasil, 2003;2.	FAUZI ,Timaco J. e SILVA, Fabio Gomes. Economia aplicada à Administração. Ed. Futura , 2002;3.	LOPES, L. M. & VASCONCELLOS, M A S. Manual de Macroeconomia Básico e Intermediário.Ed. Atlas. 2008;4.	ABEL, Andrew B. e BERNANKE, Ben S. Macroeconomics. Boston: Pearson - Addison Wesley. Fifth ed. 2005;5.	SHAPIRO, E. Análise macroeconômica: livro-base. São Paulo: Atlas, 1996.

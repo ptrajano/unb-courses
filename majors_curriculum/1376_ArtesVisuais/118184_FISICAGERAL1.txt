@@ -1,0 +1,6 @@
+Órgão: IFD - Instituto de Física
+Código: 118184
+Denominação: FISICA GERAL 1
+Nível: Graduação
+Vigência: 2016/0
+Pré-req: Disciplina sem pré-requisitos

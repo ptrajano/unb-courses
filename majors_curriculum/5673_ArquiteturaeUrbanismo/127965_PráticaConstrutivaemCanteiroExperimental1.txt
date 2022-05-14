@@ -1,0 +1,6 @@
+Órgão: TEC - Departamento de Tecnologia em Arquit. e Urbanismo
+Código: 127965
+Denominação: Prática Construtiva em Canteiro Experimental 1
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: TEC-155080 Introd Tecnol Arquit Urbanismo 

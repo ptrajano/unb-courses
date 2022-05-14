@@ -1,0 +1,7 @@
+Órgão: PRO - Departamento de Projetos Expressão e Representação
+Código: 154989
+Denominação: Introdução ao Trabalho Final de Graduação
+Nível: Graduação
+Vigência: 2004/1
+Pré-req: TEC-154717 SIST ESTRUT EM MADEIRA EPRO-154521 Proj de Arq de Func Complexas EPRO-154547 Projeto de Urbanismo 1 ETHAU-154806 ARQ URB DA ATUALIDADE 
+Ementa: Estuddo preliminar de um objeto arquitetônico (na escala da edificação ou na escala  da cidade), em função de proposta de trabalho formulada sobr tema de livre escolha do aluno, que venha a incorporar necessariamente os conhecimentos teóricos e tecnológicos adquiridos ao longo do Curso. Ênfase na realização de pesquisa de dados e elaboração de Programa de Necessidades.

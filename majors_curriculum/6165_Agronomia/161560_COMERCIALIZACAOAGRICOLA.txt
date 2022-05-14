@@ -1,0 +1,9 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 161560
+Denominação: COMERCIALIZACAO AGRICOLA
+Nível: Graduação
+Vigência: 1998/1
+Pré-req: Disciplina sem pré-requisitos
+Ementa: ESTUDO ECONOMICO DAS ATIVIDADES DE CIRCULACAO DAS MERCADORIAS E SER-    VICOS AGRICOLAS DESDE A PRODUCAO ATE O CONSUMO.                         
+Programa:   1. INTRODUCAO.                                                             DEFINICOES E CONCEITOS DE MERCADO, COMERCIALIZACAO E "MARKETING".    2. ANALISE DE MERCADO.                                                     FUNCIONAL, DE ESTRUTURAS, POR PRODUTOS. ORGANIZACAO DE MERCADOS.     3. COMERCIALIZACAO E DESENVOLVIMENTO.                                      HISTORICO DA COMERCIALIZACAO E SEU PAPEL NO DESENVOLVIMENTO.         4. CONCEITOS BASICOS DA TEORIA DE PRECOS APLICADOS A COMERCIALIZACAO.      OFERTA, DEMANDA, ELASTICIDADE, O TEOREMA DA "TEIA DE ARANHA",  VA-      RIACAO ESTACIONAL DOS PRECOS, PRECOS E PRODUCAO DEFASADOS NO  TEM-      PO.                                                                  5. MARGEM DE COMERCIALIZACAO, CUSTOS E EFICIENCIA DA COMERCIALIZACAO.   6. POLITICA DE MERCADOS AGRICOLAS E ESTUDO DAS POLITICAS GOVERNAMEN-       TAIS.                                                                7. COMERCIO EXTERIOR. TEORIA E ESTUDOS DE MERCADOS.                   
+Bibliografia: BRANT, SA                       PIRACICABA      1a. ED.                 COMERCIALIZACAO AGRICOLA                        VEDARES         1980    STEELF, HOWARD ET ALLI          SP-BR           1a. ED,.                COMERCIALIZASCAO AGRICOLA                       ATLAS           1971    MENDOCA, GILBERTO               C. RICA         1a. ED.                 COMPENDIO DE MERCADO AGRICOLA                   IICA            1987    

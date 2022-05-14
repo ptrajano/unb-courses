@@ -1,0 +1,7 @@
+Órgão: DAP - Departamento de Audiovisuais e Publicidade
+Código: 143201
+Denominação: Cinema e Literatura
+Nível: Graduação
+Vigência: 1989/2
+Pré-req: Disciplina sem pré-requisitos
+Ementa: O cinema e a literatura enquanto linguagens e campos de significação. As relações entre as duas formas de expressão e de arte. O processo de adaptação da obra literária para o cinema. Especificidades, semelhanças e diferenças entre a literatura e o cinema.

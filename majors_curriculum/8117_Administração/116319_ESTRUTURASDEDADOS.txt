@@ -1,0 +1,9 @@
+Órgão: CIC - Departamento de Ciência da Computação
+Código: 116319
+Denominação: ESTRUTURAS DE DADOS
+Nível: Graduação
+Vigência: 2016/0
+Pré-req: CIC-116301 COMPUTACAO BASICA OUCIC-117234 PROGRAMACAO AVANCADA 
+Ementa: Gerenciamento dinâmico da memória. Listas. Pilhas. Filas. Árvores. Ordenação e Pesquisa.Pesquisa em Árvores. Grafos. Análise e aplicação de estruturas avançadas em problemas de programação. Resolução de problemas. Aplicações em problemas ambientais.
+Programa: Gerenciamento dinâmico da memória.Listas. Pilhas. Filas. Árvores. Ordenação e Pesquisa.Pesquisa em Árvores. Grafos. Análise e aplicação de estruturas avançadas em problemas de programação. Resolução de problemas. Aplicações em problemas ambientais.
+Bibliografia: Bibliografia Básica:Rangel Netto, José LucasMourão; Cerqueira, Renato Fontoura de Gusmão; Celes Filho, Waldemar, Introdução a Estruturas de Dados,Ed. Campus, 2004.Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, Algoritmos: Teoria e Prática, 3a ed., Elsevier Campus, 2012.Ziviani, N., Projetode Algoritmos com implementação em Pascal e C, 3aed., Cengage Learning, 2010.Bibliografia Complementar:Brass, P., Advanced Data Structures, Cambridge UniversityPress, 2008Kalicharan, N., Data Structures in C, CreateSpace, 2008.A. Tenenbaum, Y. Langsam, M. J. Augenstein, Estruturas de Dados Usando C, Markon,1995.Sedgewick, R., Algorithms in C (Part5 - Graphs), Addison-Wesley, 1997.H. Piccolo, Estruturas de dados/CBT, Ed. MSD, 2000

@@ -1,0 +1,9 @@
+Órgão: MUS - Departamento de Música
+Código: 149501
+Denominação: HARMONIA SUPERIOR 3
+Nível: Graduação
+Vigência: 1995/1
+Pré-req: MUS-144096 HARMONIA SUPERIOR 2 
+Ementa:    O CURSO DE HARMONIA SUPERIOR III TEM POR OBJETIVO APRESENTAR O  MATE-RIAL HARMONICO UTILIZADO POR  COMPOSITORES DE DIVERSAS  CORRENTES REPRE-SENTATIVAS DO SECULO XX E POSSIBILITAR  QUE O ALUNO  DESENVOLVA  HABILI-DADES PARA IDENTIFICAR E MANUSEAR ESSE MATERIAL.                        
+Programa: A. INTERVALOS - GRAU DE TENSAO                                          B. MODOS / DHARMONIA MODAL                                              C. ESCALA PENTATONICA                                                   D. ESCALA DE TONS INTEIROS                                              E. ESCALAS ARTIFICIAIS                                                  F. TRIADES                                                              G. ACORDES POR QUARTAS                                                  H. ACORDES COM NOTAS ACRESCENTADAS                                      I. ACORDES POR SEGUNDAS                                                 J. CLUSTERS                                                             K. POLIACORDES                                                          L. POLITONALIDADE                                                       M. ATONALISMO                                                           N. HARMONIA SERIAL                                                      
+Bibliografia: MORGAN, R. TWENTIEITH CENTURY   NEW YORK                                MUSIC                                                                   PISTON, W. HARMONY, NORTON      NEW YORK                                PERSICHETTI, V. TWENTIETH       NEW YORK                                CENTURY HARMONY, NORTON                                                 

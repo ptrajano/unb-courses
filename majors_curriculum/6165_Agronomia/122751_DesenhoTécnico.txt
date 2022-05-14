@@ -1,0 +1,7 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 122751
+Denominação: Desenho Técnico
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: Disciplina sem pré-requisitos
+Ementa: Introdução ao desenho técnico e material para desenho; Normas técnicas e padronização; Escalas; Sistema de projeção; Esboço a mão livre e perspectivas; Desenho projetivo aplicado no desenho técnico; Cotagem; Desenho arquitetônico

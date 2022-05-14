@@ -1,0 +1,9 @@
+Órgão: TEC - Departamento de Tecnologia em Arquit. e Urbanismo
+Código: 154091
+Denominação: Instalações e Equipamentos 1
+Nível: Graduação
+Vigência: 2002/2
+Pré-req: PRO-154474 PROJETO ARQUITETONICO 1 
+Ementa: Estudo das instalações prediais: elétricas, telefônicas, hidráulicas e de esgotamento sanitário e suas implicações na construção e manutenção de edifícios.
+Programa: Instalações Elétricas 	Requisitos de desempenho e parâmetros básicos  	Lâmpadas e luminárias 	Grandezas fundamentais da luminotécnica e métodos de cálculo 	Método Lumens 	Previsão de Carga 	Distribuição do circuito 	Lançamento dos pontos 	Dimensionamento 	Diagrama unifilar 	Quadro de cargas 	Legenda 	Execução projeto elétrico Instalações Prediais de Água Fria 	Terminologias e simbologia para desenho 	Consumo predial 	Capacidade dos reservatórios 	Dimensionamento dos encanamentos 	Isométricas 	Noções de instalações contra incêndio 	Execução projeto hidráulicoInstalações de Esgoto Sanitário 	Terminologias 	Simbologia para desenho 	Materiais e equipamentos utilizados 	Execução do projeto esgoto sanitário
+Bibliografia: Creder, H. Instalações Elétricas. Livros Técnicos e Científicos Editora Ltda., RJ, 1998.Creder, H. Instalações Hidráulicas e Sanitárias. Livros Técnicos e Científicos Editora Ltda., RJ, 1998.Manual Pirelli de Instalações Elétrica. Pirelli, São Paulo, Editora Pini, 2001.Manual Técnico de Instalações Hidráulicas e Sanitárias. São Paulo, Editora Pini, 1996.Melo, V. O. e Azevedo Neto, J. M. Instalações Prediais Hidráulico-Sanitárias. São Paulo, Editora Blucher, 2000.NTD - 6.01 Norma Técnica de Distribuição. CEB, Brasília, 1ª Edição, 1997.Yazigi, W. A Técnica de Edificar. Pini, São Paulo, 1999.Revista Téchne e Revista Arquitetura e Urbanismo. Catálogos e manuais de fabricantes.

@@ -1,0 +1,6 @@
+Órgão: VIS - Departamento de Artes Visuais
+Código: 131237
+Denominação: Estágio Supervisionado em Artes Visuais - Formação de Professores
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: VIS-157104 Est  Sup em Artes Plásticas 1 OUVIS-153516 Práti Ens: Materiais Artes EVIS-131202 Pratic Ensino Objeto Aprendiza EVIS-131172 Prática Ensino Linguagem Arte EVIS-131199 Metod Ensino Pesqui Arte Visua EVIS-131229 Currícu Avaliação Artes Visuai EVIS-131164 Didática das Artes Visuais OUMTC-192015 Didática Fundamental EPED-125156 Desenv Psicológico e Ensino OUTEF-191027 Psicologia da Educação 

@@ -1,0 +1,9 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 161225
+Denominação: GENETICA QUANTITATIVA
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: GEM-123153 GENETICA BASICA EEST-115070 Bioestatística 
+Ementa: ## => GENÉTICA  DE  POPULAÇÕES.  VARIAÇÃO CONTINUA COMPONENTES DEVARIÂNCIA.  SEMELHANÇA  ENTE  PARENTES.  HEREDITARIEDADE.  SELEÇÃO.REPETIBILIDADE. CRITÉRIOS  PARA  SELEÇÃO.  CONSANGÜINIDADE  E CRUZA-MENTOS. CORRELAÇÕES. ÍNDICES DE SELEÇÃO.
+Programa: ## => 1.0 - Genética  de  populações,  equilíbrio  Hardy-Wemberg, migração, mutação,seleção, equilíbrio, amostragem, consangüidade, tamanho efetivo da população,  "ran-dom drift", sistemas de consangüidade.## => 2.0 - Variação   contínua,   valores  médios, valor genético. Desvios dominância,interação.## => 3.0 - Componentes de variância,correlações,GXE,interação,variância ambiental.## => 4.0 - Semelhança entre parentes, covariância.## => 5.0 - Herdabilidade, seleção de pais, regressão do filho no pai, análise de irmãos.## => 6.0 - Seleção - resposta  e  predição, medindo resposta, diferenccial de seleção,mudanças em freqüência de genes.## => 7.0 - Repetibilidade, variância de amostragem, limites de seleção, mutação.## => 8.0 - Critérios para seleção, seleção combinada, seleção por índice.## => 9.0 - Consangüidade e cruzamentos. Heterize. Depressão.## => 10  - Correlações genéticas e ambientais. Seleção indireta. Índice de seleção. 
+Bibliografia: 1.0 - FALCONER, D.S. // Obra: Introduction to quantitative genetics. // Harlow-Inglaterra/Editora Longman // 3ª edição // 1989.2.0 - HAMMOND, K.; GRASER, H.U. & DONALD, C.A. // Obra: Animal Breeding:  The mo-dem aproach. // Sidney - Austrália // Editora University of Sidney//1992.

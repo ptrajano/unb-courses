@@ -1,0 +1,8 @@
+Órgão: CCA - Depto de Ciências Contábeis e Atuariais
+Código: 186791
+Denominação: Introdução à Contabilidade
+Nível: Graduação
+Vigência: 2003/2
+Pré-req: Disciplina sem pré-requisitos
+Ementa: Campo de Atuação. Objeto da Contabilidade. O patrimônio: estrutura e variação. Registros contábeis. Despesas e receitas. Balanço Patrimonial. Plano de Contas. Indicadores Econômicos e Financeiros.
+Bibliografia: BásicaSILVA, C. A. T.; TRISTÃO, G. Contabilidade Básica. 4ª ed. São Paulo: Atlas, 2009.SILVA, C. A. T.; TRISTÃO, G. Contabilidade Básica. 3ª ed. São Paulo: Atlas, 2008.ComplementarSILVA, C. A. T. RODRIGUES, F.F. Apostila Complementar. (Prelo) Textos disponíveis na Plataforma Moodle.

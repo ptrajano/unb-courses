@@ -1,0 +1,9 @@
+Órgão: ENC - Departamento de Engenharia Civil e Ambiental
+Código: 166961
+Denominação: Materiais de Construção - Experimental
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: TEC-154687 SISTEMAS ESTRUT NA ARQUITETURA 
+Ementa: ENSAIOS DOS MATERIAIS DE CONSTRUCAO ENSAIOS DE RESISTENCIAS MECANICAS DE CONCRETO, ACO  PARA CONCRETO  ARMADO E PROTENDIDO, BLOCOS  CERAMICOS; ENSAIOS DE CARACTERIZACAO DE AGREGADOS; ENSAIOS DE RESISTENCIAS  MECANICAS PARA MADEIRA.                                                       
+Programa: . APRESENTACAO DO LABORATORIO                                           . PISOS E MEDIDAS                                                       . ENSAIOS DE CIMENTO - AULA APLICATIVA                                  . ENSAIOS FISICOS DO CIMENSTO                                             - EXPANSIBILIDADE E PASTA NORMAL                                        - FINURA, TEMPO DE PEGA E RESISTENCIA                                 . ENSAIOS DE AGREGADOS - DEMONSTRACAO                                   . ENSAIO DE GRANULOMETRIA                                               . ENSAIOS DE ARGAMASSA                                                  . ENSAIOS COM CONCRETO (DOSAGEM, MOLDAGEM E ROMPIMENTO DE CORPOS DE PRO-  VA)                                                                   . ENSAIOS COM MADEIRA                                                   . ENSAIOS MECANICOS DO ACO                                              . ENSAIOS COM MATERIAIS CERAMICOS                                       
+Bibliografia: ABNT                                                                    NORMAS PARA ENSAIOS DIVERSOS.                   ED. ABNT                SILVA, M. RIBAS                                                         MATERIAIS DE CONSTRUCAO                         ED. PINI        1985    BAUER, L. A. F.                                                         MATERIAIS DE CONSTRUCAO (VOL. I E II)           ED. LTC         1984    

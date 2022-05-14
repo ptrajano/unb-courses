@@ -1,0 +1,6 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 122777
+Denominação: Biotecnologia Agrícola
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: FAV-161187 MELHORAMENTO DE PLANTAS EFAV-161021 Fertilidade do Solo e Adubação EFAV-122769 Tec Cont Qual dos Prod Agropec EFAV-176567 Manejo Integ Artropodes-Praga 

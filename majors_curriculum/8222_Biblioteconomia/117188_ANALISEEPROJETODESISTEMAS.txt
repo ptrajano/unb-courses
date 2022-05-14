@@ -1,0 +1,6 @@
+Órgão: CIC - Departamento de Ciência da Computação
+Código: 117188
+Denominação: ANALISE E PROJETO DE SISTEMAS
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: CIC-116441 ENGENHARIA DE SOFTWARE 

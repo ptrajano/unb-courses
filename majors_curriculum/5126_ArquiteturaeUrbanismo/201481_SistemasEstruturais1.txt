@@ -1,0 +1,6 @@
+Órgão: TEC - Departamento de Tecnologia em Arquit. e Urbanismo
+Código: 201481
+Denominação: Sistemas Estruturais 1
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: TEC-155080 Introd Tecnol Arquit Urbanismo OUTEC-154415 SISTEMAS CONSTRUTIVOS 1 

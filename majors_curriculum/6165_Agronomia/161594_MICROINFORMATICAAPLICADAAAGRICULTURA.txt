@@ -1,0 +1,9 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 161594
+Denominação: MICROINFORMATICA APLICADA A AGRICULTURA
+Nível: Graduação
+Vigência: 1998/1
+Pré-req: EST-115070 Bioestatística EIFD-105368 Física teór p/ Ciênc Agrárias EIFD-105376 Física Expe p/ Ciênc Agrárias OUEST-115070 Bioestatística EIFD-118109 FISICA P/ CIENCIAS AGRARIAS 
+Ementa: Fornecer aos alunos as ferramentas básicas para a utilização de recursos computacionais necessários para armazenamento e processamento de dados, confecção de documentos e apresentações bem como dar entendimento básico de sistemas computacionais
+Programa: Contéudo Programático:1. Conceitos básicos em informática;2. Microsoft Word em ambiente acadêmico;3. PowerPoint Funcional;4. Introdução ao Microsoft Excel;5. Funções e Fórmulas;6. Gráficos;7. Análises Estatísticas Básicas;8. Aplicações em Ciências Agrárias;9. Excel Intermediário;10. Noções de excel avançado;11. Noções de Informática para concursos;12. Conceitos avançados: noções de programação;13. Conceitos Avançados: R e SAS;14. Conceitos avançados: Macros e VBA.
+Bibliografia: Bibliografia Básica:Material Indicado em Sala e Postado no MoodleDevido à abrangência do tema, grande parte da informação está disponível na interneBibliografia ComplementarBloch, S.C. 2012. Excel para engenheiros e cientistas. LTC. São Paulo.Cinto, A.F., Góes,W.M. 2005. Excel avançado. Novatec, São Paulo.

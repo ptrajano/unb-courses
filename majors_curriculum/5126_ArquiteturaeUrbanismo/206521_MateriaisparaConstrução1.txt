@@ -1,0 +1,8 @@
+Órgão: ENC - Departamento de Engenharia Civil e Ambiental
+Código: 206521
+Denominação: Materiais para Construção 1
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: TEC-155080 Introd Tecnol Arquit Urbanismo OUENC-203602 Ciência dos Materiais 
+Ementa: Estudar os materiais utilizados construção civil, principalmente os empregados em edificações, sob o ponto de vista de suas propriedades, emprego e custos. Sensibilizar o aluno à pesquisa de novos materiais e de novas técnicas construtivas. Dar os conhecimentos necessários para que o futuro arquiteto possa executar obras e exercer controles de qualidade de materiais. Contribuir na formação do arquiteto no que diz respeito à avaliação e especificação correta dos materiais utilizados na construção civil.
+Bibliografia: Bibliografia básica (autores, título da obra, editora, número da edição, local da edição, ano)- ISAIA, G.C. (Ed). Materiais de Construção Civil e Princípios de Ciência e Engenharia de Materiais, IBRACON, 2ª. ed., São Paulo, 2007.- BAUER, L.A.F., Materiais de Construção, 5ª. ed., 2v., Rio de Janeiro. LTC, 2000.- VAN VLACK, L., Princípios de Ciência e Tecnologia dos Materiais, Editora Campus, 4ª. ed., Rio de Janeiro, 1984.Bibliografia complementar (autores, título da obra, editora, número da edição, local da edição, ano)- MEHTA, P.K. e MONTEIRO, P.J., Concreto: Microestrutura, propriedades e materiais, PINI, São Paulo, 2014.- SILVA, M.R. Materiais de construção. São Paulo, Pini, 1991.- ABNT, Normas técnicas, Rio de Janeiro.

@@ -1,0 +1,6 @@
+Órgão: PRO - Departamento de Projetos Expressão e Representação
+Código: 206253
+Denominação: Desenho de Arquitetura
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: Disciplina sem pré-requisitos

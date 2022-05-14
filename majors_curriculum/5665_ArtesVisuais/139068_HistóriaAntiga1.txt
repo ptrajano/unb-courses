@@ -1,0 +1,9 @@
+Órgão: HIS - Departamento de História
+Código: 139068
+Denominação: História Antiga 1
+Nível: Graduação
+Vigência: 2020/1
+Pré-req: Disciplina sem pré-requisitos
+Ementa: Ementa:Introdução ao estudo da sociedade grega antiga. Análise das singularidades da pólis. Discussão sobre hegemonias político-militares.
+Programa: Programa: Analisar as dinâmicas do Egeu pré-helênico: Minoicos, micênicos e "Idade Obscura"Discutir a formação da cidade-estado antiga: Mundo de Homero, colonização, formação da pólisProblematizar questões centrais da cultura grega clássica: identidade helênica, Guerras Médicas e do Peloponeso, cultura cívica (cidadãos e nãocidadãos), nascimento da históriaCompreender a configuração dos novos centros de poder no mundo grego: Período tardo-clássico e a ascensão do reino da Macedônia
+Bibliografia: Bibliografia Básica:TÍTULO:Economia e sociedade na Grécia antiga.AUTOR:Austin, M.; Vidal-Naquet, P.LOCAL:LisboaEDITOR:Edições 70ANO:1986TÍTULO:O legado da Grécia.AUTOR:Finley, M. (ed.)LOCAL:BrasíliaEDITOR:UnBANO:1998TÍTULO:A história de Homero a Santo Agostinho.AUTOR:Hartog, F. (ed.)LOCAL:Belo HorizonteEDITOR:UFMGANO:2001Bibliografia Complementar:TÍTULO: A Grécia Arcaica: de Homero a Ésquilo. Lisboa: Presença AUTOR: Mossé, C. LOCAL: LisboaEDITOR: Presença ANO: 1984TÍTULO: Economia antiga.AUTOR: Finley, M. LOCAL: Porto EDITOR: Afrontamento ANO: 1986 TÍTULO: Democracia antiga e moderna. AUTOR: Finley, M. LOCAL: Rio de Janeiro EDITOR: Graal ANO: 1988 TÍTULO: O mundo de Ulisses AUTOR: Finely, M. LOCAL: Lisboa EDITOR: Presença ANO: 1992 TÍTULO: Origens do pensamento grego. AUTOR: Vernant, J.P. LOCAL: Rio de Janeiro EDITOR: DIFELAno: 2009

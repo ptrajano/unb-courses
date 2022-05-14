@@ -1,0 +1,8 @@
+Órgão: ADM - Departamento de Administração
+Código: 186511
+Denominação: Gestão de Vendas
+Nível: Graduação
+Vigência: 2014/1
+Pré-req: ADM-181196 Administração de Marketing 
+Ementa: EmentaAdministração das vendas. Previsão e potencial de mercado. Estruturação da Equipe de vendas. Contratos e Propostas Comerciais.
+Bibliografia: Bibliografia BásicaCOBRA, Marcos. Administração de Vendas. São Paulo: Atlas, 2007.;FUTRELL, Charles. Vendas: fundamentos e novas práticas de gestão. São Paulo:Saraiva, 2003.;WANKE, Peter. Previsão de Venda: processos organizacionais e métodos quantitativose qualitativos. São Paulo: Atlas, 2006.Bibliografia ComplementarDE SIMONI, João. Promoção de Vendas. São Paulo: Makron, 2002.;JÚNIOR, José Osório de Azevedo, Compra a venda, troca ou permuta, vol. III, SãoPaulo: Revista de tribunais, 2005.;MEGIDO, J. L. T.; SZULCSEWSKI, C. J. Administração Estratégica de Vendas. SãoPaulo: Atlas, 2002.PARENTE, Juracy. Varejo no Brasil. São Paulo: Atlas, 2000.

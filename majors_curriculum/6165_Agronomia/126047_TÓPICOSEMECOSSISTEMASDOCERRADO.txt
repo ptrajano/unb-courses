@@ -1,0 +1,6 @@
+Órgão: ECL - Departamento de Ecologia
+Código: 126047
+Denominação: TÓPICOS EM ECOSSISTEMAS DO CERRADO
+Nível: Graduação
+Vigência: 2018/0
+Pré-req: ECL-126161 Ecolog  Populações Comunidades OUECL-123846 ECOLOGIA 1 OUEFL-122301 Ecologia Florestal 

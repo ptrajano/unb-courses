@@ -1,0 +1,7 @@
+Órgão: TEC - Departamento de Tecnologia em Arquit. e Urbanismo
+Código: 154687
+Denominação: SISTEMAS ESTRUTURAIS NA ARQUITETURA
+Nível: Graduação
+Vigência: 1996/2
+Pré-req: PRO-154474 PROJETO ARQUITETONICO 1 
+Ementa: Aspectos qualitativos e quantitativos dos sistemas estruturais. O espaço estrututral como espaço arquitetônico possível. A estrutura na história da tecnologia das edificações. aA conciliação dos espaços arquitetônicos e estruturais: materiais estruturais. Morfologia das estruturas. Treliças planas isostáticas. Lei de Hooke. Vigas isostáticas. Fórmula da flexão.Propriedades geométricas das seções. Estruturas de alvenaria. Projetos arquitetônicos. Materiais pétreos.

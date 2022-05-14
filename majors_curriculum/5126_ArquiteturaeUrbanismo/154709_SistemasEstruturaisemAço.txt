@@ -1,0 +1,9 @@
+Órgão: TEC - Departamento de Tecnologia em Arquit. e Urbanismo
+Código: 154709
+Denominação: Sistemas Estruturais em Aço
+Nível: Graduação
+Vigência: 2012/2
+Pré-req: TEC-154695 SIST ESTRUT EM CONCRETO ARMADO 
+Ementa: Ferro e aço. Perfis estruturais. Flechas em vigas. Projeto de vigas, projeto de pisos, pilares e coberturas. Dimensionamento de perfis de chapa dobrada a frio. Conexões soldadas. Projeto de pórticos. Projetos arquitetônicos utilizando o aço como material estrutural.
+Programa: Materia1. Introdu¸c˜ao2. Perfis Estruturais3. Tens˜oes4. Esfor¸cos nas Vigas5. Tens˜oes de Flex˜ao e Propriedades das Se¸c˜oes6. Flechas em Vigas7. Tens˜oes Cisalhantes em Vigas8. Projeto de Vigas9. Projeto de Pavimentos10. Pilares11. Projeto de Coberturas12. Perfis de Chapa Dobrada a Frio13. Conex˜oes Aparafusadas14. Conex˜oes SoldadasApˆendice : Elementos de C´alculo
+Bibliografia: 1. Pfeil, W.; Pfeil, M. Estruturas de A¸co - Dimensionamento Pr´atico. Rio de Janeiro:LTC - Livros T´ecnicos e Cient´ýfico, 2000. 336p.2. Pinheiro, A. C. F. B. Estruturas Met´alicas. C´alculos, Detalhes, Exerc´ýcios e Projetos.S˜ao Pulo: Edgard Bl¨ucher, 2001. 300p.3. Moliterno, A. Elementos para Projetos em Perfis Leves de A¸co. S˜ao Pulo: EdgardBl¨ucher, 1989. 209p.4. Parker, H.; Ambrose, J. Simplified Design of Structural Steel. New York: JohnWiley Sons, 1983. 401p.5. S¨ussekind, J.C. Curso de An´alise Estrutural, vol 1. Porto Alegre : Globo , 1989.6. Timoshenko, S. Resistˆencia dos Materiais, vol 1.7. A¸cominas. Coletˆanea T´ecnica do Uso do A¸co.

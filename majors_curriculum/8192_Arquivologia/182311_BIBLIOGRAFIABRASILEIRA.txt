@@ -1,0 +1,7 @@
+Órgão: FCI - Faculdade de Ciência da Informação
+Código: 182311
+Denominação: BIBLIOGRAFIA BRASILEIRA
+Nível: Graduação
+Vigência: 2010/1
+Pré-req: FCI-182541 CONTROLE BIBLIOGRAFICO 
+Ementa:    CURSO  TEMATICO  APROFUNDANDO  ASPECTOS DA  SITUACAO DE UM  TIPO  DE BIBLIOTECA BRASILEIRA A SER ESCOLHIDO ENTRE:                            - BIBLIOTECAS PUBLICAS.                                                 - BIBLIOTECAS ESPECIALIZADAS E DE EMPRESA.                              - BIBLIOTECAS UNIVERSITARIOS E ESCOLARES.                               

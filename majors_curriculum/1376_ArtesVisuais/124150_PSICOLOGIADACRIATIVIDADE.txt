@@ -1,0 +1,9 @@
+Órgão: PED - Departamento de Psic.Escolar e do Desenvolvimento
+Código: 124150
+Denominação: PSICOLOGIA DA CRIATIVIDADE
+Nível: Graduação
+Vigência: 1962/1
+Pré-req: Disciplina sem pré-requisitos
+Ementa: Concepções de criatividade. Características intelectuais, sociais e emocionais do indivíduo criativo. Influências sociais e culturais na criatividade. A promoção da criatividade em diferentes contextos. Criatividade, desenvolvimento humano e cultura
+Programa: => => 1.0 - O que é Criatividade?=> => 2.0 - Criatividade, Inteligência e Talento.=> => 3.0 - Criatividade: Abordagens Teóricas.=> => 4.0 - Métodos de Identificação.=> => 5.0 - Influência Sociais e Culturais na Criatividade.=> => 6.0 - Imaginação Criadora.=> => 7.0 - Criatividade e Ensino.=> => 8.0 - Programas e Técnicas de Treinamento de Criatividade.
+Bibliografia: => Autor: ALENCAR, E.M.L.S.=> Obra: Psicologia da Criatividade.=> Editor: Artes médicas do Sul=> Edição: s/nº=> Local: Porto Alegre-RS-Brasil=> Ano: s/data=> Autor: FRAIBERG, S.H.=> Obra: Os Anos Mágicos.=> Editor: Brasil=> Edição: s/nº=> Local: São Paulo-SP-Brasil=> Ano: 1980=> Autor: KNELLER, G.F.=> Obra: Arte e Ciência da Criatividade.=> Editor: IBRASA=> Edição: s/n7=> Local: São Paulo-SP-Brasil=> Ano: 1976=> Autor: MAY, R.=> Obra: A Coragem de Criar.=> Editor: Novas Fornteiras=> Edição: s/nº=> Local: Rio de Janeiro-RJ-Brasil=> Ano: 1982=> Autor: OSBORN, A.P.=> Obra: O Poder Criador da mente.=> Editor: IBRASA=> Edição: s/nº=> Local: São Paulo-SP-Brasil=> Ano: 1972=> Autor: PRINCE, J.M.=> Obra: A Prática da Criatividade. Um    Manual para Solução Dinâmica para Problema de                Grupo.=> Editor: Cultrix=> Edição: s/nº=> Local: São Paulo-SP-Brasil=> Ano: 1975

@@ -1,0 +1,9 @@
+Órgão: HIS - Departamento de História
+Código: 139661
+Denominação: História Regional
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: HIS-139033 Introd ao Estudo da História 
+Ementa: História e região; natureza e região; relações entre o nacional e o regional; regionalismo; sociedade, economia e cultura regionais; negros e índios na formação da sociedade regional.
+Programa: Conhecer conceitos e métodos para o estudo da história regional Analisar os processos de formação da sociedade regional e as relações entre região e naçãoConhecer aspectos da natureza da região e compreender as relações entre a sociedade regional e o meio ambienteCompreender a cultura regional e conhecer as expressões materiais e imateriais do patrimônio cultural
+Bibliografia: Básica:TÍTULO: MonçõesAUTOR: HOLANDA, Sérgio Buarque de	LOCAL: São Paulo	EDITOR: Brasiliense	ANO: 1990TÍTULO: Entre árvores e esquecimentos: história social dos sertões do BrasilAUTOR: LEONARDI, Victor	LOCAL: Brasília	EDITOR: EDUnB / Paralelo 15	ANO: 1996TÍTULO: De Nova Lisboa a Brasília: a invenção de uma capital (séculos XIX e XX)AUTOR: VIDAL, Laurent	LOCAL: Brasília	EDITOR: EDUnB	ANO: 2009Bibliografia Complementar:TÍTULO: História da terra e do homem no Planalto Central: eco-história do Distrito Federal (do indígena ao colonizador)AUTOR: BERTRAN, Paulo	LOCAL: Brasília	EDITOR: EDUnB	ANO: 2011TÍTULO: Região e organização espacialAUTOR: CORRÊA, Roberto Lobato	LOCAL: São Paulo	EDITOR: Ática	ANO: 1991TÍTULO: História dos índios no BrasilAUTOR: CUNHA, Manuela Carneiro da (org)	LOCAL: São Paulo	EDITOR: Companhia das Letras	ANO: 1998TÍTULO: Nordeste: aspectos da influência da cana sobre a vida e a paisagem do Nordeste do BrasilAUTOR: FREYRE, Gilberto	LOCAL: Rio de Janeiro	EDITOR: Record	ANO: 1989TÍTULO: Região e nação na América LatinaAUTOR: ZARUR, Jorge de Cerqueira (org)	LOCAL: Brasília	EDITOR: EDUnB	ANO: 2000

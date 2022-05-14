@@ -1,0 +1,9 @@
+Órgão: FIT - Departamento de Fitopatologia
+Código: 126021
+Denominação: Microorganismos Fitopatogênicos
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: Disciplina sem pré-requisitos
+Ementa: Características dos fitopatógenos. Características na identificação e classificação de bactérias, fungos, nematóides, fitoplasmas, vírus, viróides e protozoários fitoparasitas. Cultivo de bactérias e fungos. Observações e ilustração dos principais gêneros de nematóides e fungos.
+Programa: Micologia - Blum; Vale; Rezende - Características dos fungos fitopatogênicos. Classificação atual. Identificação: Ascomycota / Deutermycota, Basidiomycota, Zygomycota, Oomycota. Bacteriologia - Uesugi - Características das fitobactérias. Classificação atual. Diagnose de bacterioses. Identificação de gêneros de fitobactérias. Virologia - Carvalho - Características dos vírus fitopatogênicos. Agrupamento atual. Diagnose de viroses. Transmissão de viroses. Vetores de virus. Nematologia - Furlanetto; Cares - Características dos nematóides fitoparasitas. Classificação atual. Diagnose de nematoses. Identificação de gêneros de nematóides.
+Bibliografia: Agrios, G.N. Plant Pathology, 5ªed. New York. Academic Press. 2005.Amorim, L.; Rezende, J.A.M. & Bergamin Filho, A. Manual de Fitopatologia. V. 1. Princípios e Conceitos. 4ª Ed. Ed. Agronômica Ceres Ltda. São Paulo. 2011. 704p.Blum, L.E.B.; Uesugi, C.H.; Cares, J.E.; Vale, H.M.M. Fitopatologia e microrganismos fitopatogênicos. Brasília: Gráfica e Editora Positiva, 2012. 156p.Guerrero, R.T.; Silveira, R.M.B. Glossário ilustrado de fungos: termos e conceitos aplicados à micologia. Porto Alegre: Ed. UFRGS, 2003. 102p.Putzke, J; Putzke, M.T.L. Glossário ilustrado de micologia. EDUNISC, 2004. 15p.Romeiro, R.S.; Rodrigues Neto, J. Diagnose de enfermidades de plantas incitadas por bactérias. UFV, 2001, 67p. (Cadernos didáticos, 78)

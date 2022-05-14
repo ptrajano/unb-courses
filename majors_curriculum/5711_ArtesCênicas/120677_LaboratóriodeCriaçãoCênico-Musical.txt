@@ -1,0 +1,6 @@
+Órgão: CEN - Departamento de Artes Cênicas
+Código: 120677
+Denominação: Laboratório de Criação Cênico-Musical
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: Disciplina sem pré-requisitos

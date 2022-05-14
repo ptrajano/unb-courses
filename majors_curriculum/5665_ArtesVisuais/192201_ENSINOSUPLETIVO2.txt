@@ -1,0 +1,6 @@
+Órgão: MTC - Departamento de Métodos e Técnicas
+Código: 192201
+Denominação: ENSINO SUPLETIVO 2
+Nível: Graduação
+Vigência: 1962/1
+Pré-req: MTC-192198 ENSINO SUPLETIVO 1 

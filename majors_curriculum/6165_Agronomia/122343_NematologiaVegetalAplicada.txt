@@ -1,0 +1,9 @@
+Órgão: FIT - Departamento de Fitopatologia
+Código: 122343
+Denominação: Nematologia Vegetal Aplicada
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: Disciplina sem pré-requisitos
+Ementa: Envolve trabalho experimental orientado de amostragem e extração de nematóides de solo e tecidos vegetais na área experimental do Departamento de Fitopatologia.
+Programa: O plano de trabalho será definido pela linha de pesquisa desenvolvida pelo aluno.
+Bibliografia: A critério do professor.

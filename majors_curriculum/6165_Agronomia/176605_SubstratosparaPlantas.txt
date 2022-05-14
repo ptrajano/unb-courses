@@ -1,0 +1,6 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 176605
+Denominação: Substratos para Plantas
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: FAV-170135 Biologia do Solo 

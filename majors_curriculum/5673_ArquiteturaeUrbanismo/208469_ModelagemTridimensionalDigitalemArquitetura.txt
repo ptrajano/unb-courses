@@ -1,0 +1,6 @@
+Órgão: PRO - Departamento de Projetos Expressão e Representação
+Código: 208469
+Denominação: Modelagem Tridimensional Digital em Arquitetura
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: PRO-154474 PROJETO ARQUITETONICO 1 

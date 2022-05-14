@@ -1,0 +1,9 @@
+Órgão: VIS - Departamento de Artes Visuais
+Código: 153044
+Denominação: Desenho 1
+Nível: Graduação
+Vigência: 1996/1
+Pré-req: Disciplina sem pré-requisitos
+Ementa: Disciplina de introdução à prática do desenho. Realização de exercícios que envolvam os princípios básicos do desenho de observação. Deverá ser focalizada a representação por meios gráficos (preto/branco) da realidade tridimensional em uma superfície bidimensional. A disciplina focaliza ainda exercícios estimuladores da coordenação mão/olho.
+Programa: 1- Exercícios preparatórios: coordenação viso - motora.1.1-	O traço.1.2-	Desenho gestual. 1.3-	Desenho do contorno.2-	Procedimentos do desenho de observação.2.1-	Relações entre elementos visuais.2.1.1- espaço negativo.2.1.2- peso visual.2.1.3- proporção. 3-	Valor tonal e texturas.4-	Perspectiva.5-	Materiais sugeridos: carvão, crayon, nanquim, grafite e pastel.
+Bibliografia: Arnheim, Rudolf. "Arte e Percepção Visual". São Paulo, Ed. USP, 1980.Ostrower, Fayga. "Universos da Arte". Rio de Janeiro, Ed. Campus,1983.Rudel, Jean. "A Técnica do Desenho". Rio de Janeiro, Zahar Editores S.A, 1980.

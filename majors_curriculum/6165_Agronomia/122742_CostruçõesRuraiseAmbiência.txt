@@ -1,0 +1,7 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 122742
+Denominação: Costruções Rurais e Ambiência
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: Disciplina sem pré-requisitos
+Ementa: EmentaIntrodução a construções rurais e ambiência; Resistência dos materiais; Materiais de construção; Técnicas construtivas; Instalações hidráulicas e sanitárias; Ambiência e conforto animal; Índices do ambiente térmico e modificações ambientais

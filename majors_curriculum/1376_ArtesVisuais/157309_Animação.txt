@@ -1,0 +1,9 @@
+Órgão: VIS - Departamento de Artes Visuais
+Código: 157309
+Denominação: Animação
+Nível: Graduação
+Vigência: 2003/2
+Pré-req: Disciplina sem pré-requisitos
+Ementa:    INSTRUMENTACAO PRATICA E TEORICA DA ANIMACAO COMO LINGUAGEM EM  FILMEOU COMPUTACAO. PROCESSOS EXPERIMENTAIS.                                 
+Programa: - ESTUDO DA HISTORIA DAS TECNICAS DE CRIACAO DE ANIMACOES -  IMAGENS  EM  MOVIMENTO: CINEMA, VIDEO, COMPUTACAO GRAFICA. ANALISE DE ANIMACOES POR  COMPUTADOR.                                                           - ESTUDO PRATICO DE PROGRAMAS DE  COMPUTADOR  DIRECIONADOS  A CRIACAO DE  ANIMACAO.                                                             - PESQUISA PRATICA E TEORICA DESTA LINGUAGEM ARTISTICA.                 
+Bibliografia: MACHADO, ARLINDO                SAO PAULO                               MAQUINA E IMAGINARIO                            ED. EDUSP       1993    PARENTE, ANDRE (ORG.)           RIO DE JANEIRO                          IMAGEM-MAQUINA                                  ED. 34 EDICAO   1993    LAURENITZ, PAULO                CAMPINAS/SP                             "ANALOGIA DO PENSAMENTO ARTISTICO"              ED. UNICAMP     1991    VIRILIO, PAUL                   RIO DE JANEIRO                          A MAQUINA DE VISAO                              ED. JOSE OLYM-  1994                                                        PIO                 MANUAIS DE PROGRAMAS DE ANIMACAO                                        

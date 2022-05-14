@@ -1,0 +1,7 @@
+Órgão: PRO - Departamento de Projetos Expressão e Representação
+Código: 154539
+Denominação: PROJETO DE ARQUITETURA INDUSTRIALIZADA
+Nível: Graduação
+Vigência: 1996/2
+Pré-req: PRO-154491 Proj  Arquitetura - Habitação ETEC-154687 SISTEMAS ESTRUT NA ARQUITETURA 
+Ementa: Projeto de edificações utilizando sistemas construtivos que impliquem o emprego de elementos repetitivos passíveis de industrialização. Padronização, coordenação modular, pré-moldagem. Desenvolvimento no nível de projeto executivo.

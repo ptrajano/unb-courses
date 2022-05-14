@@ -1,0 +1,7 @@
+Órgão: PED - Departamento de Psic.Escolar e do Desenvolvimento
+Código: 127167
+Denominação: Superdotação, Talento e Desenvolvimento Humano
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: PED-106186 Proc de Desenvolvimento Humano OUPED-124044 Desenvolvimento C V Infância EPED-124087 Desenvolvimento C Vida Adolesc 
+Ementa: Concepções de superdotação e talento. Desenvolvimento histórico da área e definições. Características cognitivas e sócio-afetivas da pessoa superdotada. A interface da superdotação com a inteligência e a criatividade. Influência da família, escola, trabalho, sociedade e cultura. Processo de identificação e diagnóstico diferencial. Programas educacionais e atendimento para superdotados no Brasil e no exterior

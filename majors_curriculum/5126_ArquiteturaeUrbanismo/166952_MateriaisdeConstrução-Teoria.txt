@@ -1,0 +1,9 @@
+Órgão: ENC - Departamento de Engenharia Civil e Ambiental
+Código: 166952
+Denominação: Materiais de Construção - Teoria
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: TEC-154687 SISTEMAS ESTRUT NA ARQUITETURA 
+Ementa: Estudos dos materiais de construção, suas propriedades físicas, mecânicas e normalização. Métodos de controle de qualidade do concreto, do aço, da madeira, dos materiais cerâmicos, vidros, tintas e outros.
+Programa: . INTRODUCAO AO ESTUDO DOS MATERIAIS - ENSAIOS E NORMALIZACAO,  PROPRIE-  DADES GERAIS                                                          . AGLOMERANTES, CAL AEREA, CAL HIDRAULICA, GESSO, MATERIAIS BETUMINOSOS . CIMENTO PORTAND - PROPRIEDADES, ESPECIFICACOES, FABRICACAO E UTILIZA-   CAO.                                                                  
+Bibliografia: PETRUCCI, E. G. R.                                                      MATERIAIS DE CONSTRUCAO                         ED. GLOBO       1975    SILVA, M. RIBAS                                                         MATERIAIS DE CONSTRUCAO                         ED. PINI        1985    BAUER, L. A. F.                                                         MATERIAIS DE CONSTRUCAO (VOL. I E II)           ED. LTC         1984    PETRUCCI, E. G. R.                                                      CONCRETO DE CIMENTO PORTAND                     ED. GLOBO       1978    VILLE, ADAM M.                                                          PROPRIEDADES DE CONCRETO                        ED. PINI        1982    MEHTA, P. K. MONTEIRO, P. J.                                            CONCRETO: ESTRUTURA, PROPRIEDADES E MATERIAIS   ED. PINI        1994    

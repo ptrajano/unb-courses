@@ -1,0 +1,6 @@
+Órgão: FIT - Departamento de Fitopatologia
+Código: 122718
+Denominação: Fitopatologia Aplicada
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: FIT-126012 FITOPATOLOGIA GERAL 

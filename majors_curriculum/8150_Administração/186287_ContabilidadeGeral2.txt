@@ -1,0 +1,9 @@
+Órgão: CCA - Depto de Ciências Contábeis e Atuariais
+Código: 186287
+Denominação: Contabilidade Geral 2
+Nível: Graduação
+Vigência: 2003/2
+Pré-req: CCA-181129 Contabilidade Geral 1 
+Ementa: Estrutura conceitual da Contabilidade. Balanço Patrimonial. Reconhecimento, mensuração e evidenciação de ativos e passivos. Patrimônio Líquido.
+Programa: 1. Estrutura conceitual da Contabilidade.2. Plano de Contas. Balanço Patrimonial. Estrutura e Finalidade. Demonstrações de Resultado.3. Disponível - caixa e equivalentes de caixa.4. Contas a receber. Clientes. Outros créditos5. Estoques. Inventários Periódico e Permanente.6. Ativos especiais e Despesas Antecipadas.7. Realizável a Longo Prazo (não circulante). Investimentos temporários. Ajuste a valor presente.8. Instrumentos financeiros. Mensuração do valor justo.9. Investimentos. Propriedade para investimento e participação permanente em outras cias.10. Imobilizado. Depreciação. Amortização. Exaustão. Redução ao valor recuperável.11. Intangível. Exclusão do Ativo diferido. Ativo biológico.12. Fornecedores. Empréstimo. Financiamento.13. Obrigações Fiscais e Outras Obrigações.14. Exigível a Longo Prazo (não circulante).15. Antecipação de receitas e Obrigações.16. Provisões. Passivos Contingentes. Ativos Contingentes.17. Patrimônio líquido. Composição. Constituição. Integralização. Ajuste de avaliação patrimonial.
+Bibliografia: Básica:MARTINS, Eliseu; GELBCKE, Ernesto Rubens; SANTOS, Ariovaldo dos; IUDÍCIBUS, Sérgio de. Manual de Contabilidade Societária: Aplicável a todas as Sociedades de acordo com as Normas Internacionais e do CPC. 2ª Edição. São Paulo: Atlas, 2013.COMITÊ DE PRONUNCIAMENTO CONTÁBEIS. Pronunciamentos técnicos. Disponíveis em: . Acesso em: 07 mar. 2014.Complementar:CONSELHO FEDERAL DE CONTABILIDADE. Resoluções. Disponíveis em:. Acesso em: 07 mar. 2014.

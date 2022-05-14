@@ -1,0 +1,6 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 122807
+Denominação: Agroecologia e Agricultura Orgânica
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: FAV-122424 Horticultura Geral EFAV-161021 Fertilidade do Solo e Adubação EFAV-122661 Sist Prod Cult Graníferas 

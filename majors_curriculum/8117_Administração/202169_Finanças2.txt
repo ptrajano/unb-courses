@@ -1,0 +1,9 @@
+Órgão: ADM - Departamento de Administração
+Código: 202169
+Denominação: Finanças 2
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: ADM-181145 Finanças 1 
+Ementa: Modelos baseados em opções e mecanismos de obtenção de capital social. Gerenciamento de capital de giro e planejamento financeiro de curto prazo. Governança corporativa, fusões e aquisições e introdução às finanças corporativas internacionais.
+Programa: 1.Conceitos financeiros básicos; a função financeira na empresa, o valor do dinheiro no tempo, taxas de juros e risco e retorno.2.Investimentos em Ativos de Longo Prazo.3.Administração do ativo circulante: capital de giro, estoques e contas a receber.4.Administração de ativos de longo prazo: fontes de financiamento, investimentos de longo prazo.5.Orçamento de capital: custo de capital, metodologia de elaboração do orçamento de capital.6.Estrutura de capital: conceito e características; alavancagem financeira e operacional; e restrições ao uso dos capitais de terceiros.7.Política de dividendos: tipos e objetivos.8.Fusões e aquisições: tipos e características; vantagens e desvantagens.
+Bibliografia: Bibliografia Básica.1.	BERK, J., DEMARZO, P. Finanças Empresariais. Porto Alegre: Bookman, 2008.2.	BRIGHAM, E.F., ERHARDT, M.C. Administração Financeira: Teoria e Prática. São Paulo: Cengage Learning, 2006.3.	GRINBLATT, M. & TITMAN, S. Mercados Financeiros & Estratégia Corporativa. 2. ed. Porto Alegre, Bookman, 2005.Bibliografia Complementar.1.	DAMODARAN, A. Gestão Estratégica do Risco. Porto Alegre: Bookman, 2009.2.	FORTUNA, E. Mercado Financeiro: produtos e serviços. Rio de Janeiro: Qualitymark, 2011.3.	RANGEL, A. S., SANTOS, J. C. S, BUENO, R. L. S. Matemática dos Mercados Financeiros: à Vista e a Termo. São Paulo: Atlas, 2003.4.	ROSS, A. R., WESTERFIELD, R. W., JAFFE, J. F. Administração Financeira. São Paulo: Atlas, 2002.5.	SAMANEZ, C. P. Matemática Financeira. São Paulo: Makron Books, 2010.

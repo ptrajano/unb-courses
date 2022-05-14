@@ -1,0 +1,9 @@
+Órgão: VIS - Departamento de Artes Visuais
+Código: 157325
+Denominação: ARTE ELETRONICA 2
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: VIS-156264 ARTE ELETRONICA 1 
+Ementa:    APROFUNDAMENTO PRATICO E TEORICO DA ARTE ELETRONICA.                 
+Programa: - APRESENTACAO DE CONCEITOS BASICOS UTILIZADOS EM ARTE COMPUTACIONAL.   - PRIMITIVAS E OPERACOES BASICAS UTILIZADAS PELOS PROGRAMAS UTILIZADOS. - CONSTRUCAO DE MODULOS BASICOS.                                        - MONTAGEM DE UM TRABALHO A PARTIR DOS MODULOS BASICOS CONSTRUIDOS.     - ILUMINACAO E FINALIZACAO DO TRABALHO ANTERIOR.                        - ELABORACAO DE UMA ANIMACAO COM O TRABALHO REALIZADO.                  
+Bibliografia: ARISTARO, G.                    PORTUGAL                                O NOVO MUNDO DAS IMAGENS ELETRONICAS            ED. 70.         1990    CALABRESE, OMAR                 LISBOA                                  A LINGUAGEM DA ARTE                             ED. GLOBO       1988    CALABRESE, OMAR                 LISBOA                                  A IDADE NEOBARROCA                              ED. 70          1987    MACHADO, ARLINDO                BRASIL                                  A ARTE DO VIDEO                                 ED. BRASILIENSE 1988    MACHADO, ARLINDO                SAO PAULO                               MAQUINAS E O IMAGINARIO                         ED. EDUSP       1993    

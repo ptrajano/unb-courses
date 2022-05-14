@@ -1,0 +1,9 @@
+Órgão: VIS - Departamento de Artes Visuais
+Código: 153052
+Denominação: DESENHO 2
+Nível: Graduação
+Vigência: 1996/1
+Pré-req: VIS-153044 Desenho 1 
+Ementa: Disciplina de desenvolvimento seqüenciado da prática do desenho. Ênfase no estudo do volume do corpo humano e na representação do espaço perspectivo
+Programa: 1-    Desenho do volume.1.1- Superposições, profundidade e relação cheio/vazio.
+Bibliografia: Arnheim, Rudolph."Arte e Percepção Visual". São Paulo, Ed. USP, 1980.Goldstein, Nathan. "Figure Drawing". New Jersey, Prentice Hall, 1993. Mayer, Ralph. "Manual do Artista". São Paulo, Ed. Martins Fontes, 1999.Ostrower, Fayga. "Universos da Arte". Rio de Janeiro, Ed. Campus, 1983.Rawson, Philip. "Drawing". London, Oxford University Press, 1969.Rudel, Jean. "A Técnica do Desenho". Rio de Janeiro, Zahar Editores S.A, 1980.

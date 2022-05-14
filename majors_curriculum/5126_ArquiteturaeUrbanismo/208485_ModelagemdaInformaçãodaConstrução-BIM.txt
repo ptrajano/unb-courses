@@ -1,0 +1,6 @@
+Órgão: PRO - Departamento de Projetos Expressão e Representação
+Código: 208485
+Denominação: Modelagem da Informação da Construção - BIM
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: PRO-208469 Model Trid Digital em Arquitet 

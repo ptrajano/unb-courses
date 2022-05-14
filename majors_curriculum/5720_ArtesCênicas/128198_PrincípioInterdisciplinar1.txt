@@ -1,0 +1,6 @@
+Órgão: IQD - Instituto de Química
+Código: 128198
+Denominação: Princípio Interdisciplinar 1
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: Disciplina sem pré-requisitos

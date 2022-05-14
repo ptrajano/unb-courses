@@ -1,0 +1,6 @@
+Órgão: VIS - Departamento de Artes Visuais
+Código: 131415
+Denominação: Estudos Visuais e Educação - Linguagens
+Nível: Graduação
+Vigência: 1988/2
+Pré-req: Disciplina sem pré-requisitos

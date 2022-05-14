@@ -1,0 +1,6 @@
+Órgão: TEF - Departamento de Teoria e Fundamentos
+Código: 191078
+Denominação: HISTORIA DA EDUCACAO 2
+Nível: Graduação
+Vigência: 1962/1
+Pré-req: TEF-191060 HISTORIA DA EDUCACAO 

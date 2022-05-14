@@ -1,0 +1,6 @@
+Órgão: IPOL - Instituto de Ciência Política
+Código: 114880
+Denominação: Prática de Ensino em Introdução à Ciência Política
+Nível: Graduação
+Vigência: 2016/2
+Pré-req: IPOL-185035 Introdução à Ciência Política 

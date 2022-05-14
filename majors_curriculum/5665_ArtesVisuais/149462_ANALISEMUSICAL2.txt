@@ -1,0 +1,9 @@
+Órgão: MUS - Departamento de Música
+Código: 149462
+Denominação: ANALISE MUSICAL 2
+Nível: Graduação
+Vigência: 1995/1
+Pré-req: MUS-144851 ANALISE MUSICAL 1 
+Ementa:    PRATICA ELEMENTAR DE PROCESSO COMPOSICONAL (TEORIA DE HINDEMITH)     
+Programa:    ANALISE FENOMENOLOGICA DE PECAS DE ESTRUTURA DE MAIOR COMPLEXIDADE   (FORMA SONATA)                                                          
+Bibliografia: PAUL HINDEMITH                  LONDON                                  THE CRAFT OF THE MUSICAL COMPOSITION            ED. MUSIC PRESS 1940    

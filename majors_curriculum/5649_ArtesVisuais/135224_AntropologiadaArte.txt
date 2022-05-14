@@ -1,0 +1,8 @@
+Órgão: DAN - Departamento de Antropologia
+Código: 135224
+Denominação: Antropologia da Arte
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: CEN-153010 Elem Ling Estética Hist Arte 2 OUPST-124028 Psicologia Social 1 OUDAN-135194 Teoria Antropológica 1 OUHIS-139149 História do Brasil 2 OUFCI-180815 Museologia 1 EDAN-135011 Introdução à Antropologia 
+Ementa: Apresentação do campo da antropologia da arte: a história de sua constituição, o debate sobre o conceito de estética e as diferentes abordagens teóricas no estudo antropológico das manifestações artísticas. Discussão crítica sobre temáticas recentes no campo: identidade e alteridade; apropriação e colecionamento; produção, mediação e circulação.
+Bibliografia: BECKER, Howard. Uma teoria da ação coletiva. Rio de Janeiro: Zahar, 1977.BOURDIEU, Pierre. A distinção: crítica social do julgamento. Porto Alegre: Zouk; São Paulo: EdUSP, 2006.CLIFFORD, James. Dilemas de la cultura: antropología, literatura y arte en la perspectiva posmoderna. Barcelona: Gedisa, 1995.GEERTZ, Clifford. O saber local: novos ensaios em antropologia interpretativa. Petrópolis: Vozes, 1998.LAYTON, Robert. A antropologia da arte. Lisboa: Edições 70, 2001.

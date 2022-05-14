@@ -1,0 +1,9 @@
+Órgão: CCA - Depto de Ciências Contábeis e Atuariais
+Código: 181757
+Denominação: CONTROLADORIA
+Nível: Graduação
+Vigência: 2003/2
+Pré-req: CCA-181242 Análise Econômico-Financeira 1 ECCA-181137 CUSTOS 
+Ementa: A função da Controladoria. Métodos de custeio. Métodos de controle e decisão. Orçamento de capital. Os fluxos financeiros da empresa. Formação de preços. Análise de custos e orçamentos. Análise da margem de contribuição. Planejamento do lucro. Controle por Departamento. Rentabilidade de produtos.
+Programa: 1.	Processo de Gestão e Controladoria1.1.	O papel da Contabilidade Gerencial1.2.	Modelos de Controladoria nas Empresas1.3.	GECON - Modelo de Gestão Econômica2.	Planejamento e Orçamento2.1.	Relações Custo-volume -lucro2.2.	Determinação de preços de Produtos e Serviços2.3.	Custeio A B C2.4.	Custos Relevantes para Tomada de Decisão2.5.	Orçamentos3.	Controle e Avaliação de Desempenho3.1.	Análise de Variações3.2.	Preços de Transferência3.3.	Relatórios por Segmento3.4.	Avaliação com Base em ROI3.5.	Balanced ScoreCard
+Bibliografia: GARRISON, R.; H. NOREEN, E. W.; BREWER, P. C. Contabilidade gerencial. 14ª ed.Porto Alegre: AMGH, 2013. (e-book ou impresso)HORNGREN, C. T.; DATAR, S. M.; FOSTER, G. Contabilidade de custos: uma abordagem gerencial - vol. 1. 11ª ed. São Paulo: Pearson, 2004.

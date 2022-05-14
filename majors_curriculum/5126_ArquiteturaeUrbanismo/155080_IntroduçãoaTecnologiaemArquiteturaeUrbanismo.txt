@@ -1,0 +1,6 @@
+Órgão: TEC - Departamento de Tecnologia em Arquit. e Urbanismo
+Código: 155080
+Denominação: Introdução a Tecnologia em Arquitetura e Urbanismo
+Nível: Graduação
+Vigência: 2015/2
+Pré-req: Disciplina sem pré-requisitos

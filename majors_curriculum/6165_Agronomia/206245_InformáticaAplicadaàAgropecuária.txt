@@ -1,0 +1,7 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 206245
+Denominação: Informática Aplicada à Agropecuária
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: EST-115070 Bioestatística 
+Ementa: A disciplina visa fornecer conhecimentos sobre planilha eletrônica, editor de texto, software de análise estatísticas de dados e softwares desenvolvidos para o setor agrícola.

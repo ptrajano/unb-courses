@@ -1,0 +1,6 @@
+Órgão: TEC - Departamento de Tecnologia em Arquit. e Urbanismo
+Código: 155535
+Denominação: Ensaio em Tecnologia  da Arquitetura e Urbanismo
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: TEC-154423 TECNICAS DE CONSTRUCAO ETEC-154709 Sistemas Estruturais em Aço ETEC-155331 CONFORTO SONORO ETEC-155349 CONFORTO AMBIENTAL LUMINOSO 

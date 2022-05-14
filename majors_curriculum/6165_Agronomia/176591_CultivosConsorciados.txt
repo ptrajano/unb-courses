@@ -1,0 +1,6 @@
+Órgão: FAV - Faculdade de Agronomia e Medicina Veterinária
+Código: 176591
+Denominação: Cultivos Consorciados
+Nível: Graduação
+Vigência: 1971/2
+Pré-req: FAV-170747 Grandes Culturas 1 EFAV-170755 Culturas Graníferas de Verão EFAV-170305 FRUTICULTURA GERAL 
