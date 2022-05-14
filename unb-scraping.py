@@ -18,9 +18,10 @@ COURSE_URL = "https://sigraweb.unb.br"
 class MajorsScraping:
     def __init__(self):
         self.id_major_relation = {}
+        self.sub_major_relations = {}
         self.majors_links = []
 
-    def __get_majors_links(self):
+    def __get_primary_majors_links(self):
         page = requests.get(MAIN_URL)
         majors_links = []
 
@@ -37,8 +38,8 @@ class MajorsScraping:
 
         return majors_links
 
-    def get_major_structure(self):
-        majors_links = self.__get_majors_links()
+    def __get_sub_majors_links(self):
+        majors_links = self.__get_primary_majors_links()
         sub_major = []
 
         with Bar('Majors Analyzed', max=len(majors_links)) as bar:
@@ -71,7 +72,12 @@ class MajorsScraping:
                     print("TABLE NOT FOUND, ERROR IN WEBSITE")
                 bar.next()
 
-        print(self.id_major_relation)
+    def get_majors_relations(self):
+        pass
+
+    def get_majors_id(self):
+        self.__get_sub_majors_links()
+        return list(self.id_major_relation.keys())
 
 '''
 def recursive_all_sibling(class_type, saving_vector):
@@ -128,7 +134,7 @@ def get_majors():
         file_major_list.writelines(sub_major)
     '''
 
-'''
+
 def scraping_site_curriculum(x):
     
     link_courses = []
@@ -248,9 +254,9 @@ def scraping_site():
     print(sub_major)
     
 """
-'''
+
 #get_majors()
 #scraping_site_majors_curriculum()
 #scraping_site_curriculum("8150 - ADMINISTRAÇÃO")
 majors = MajorsScraping()
-majors.get_major_structure()
+print(len(majors.get_majors_id()))
