@@ -15,11 +15,25 @@ MAJOR_URL = "https://sigraweb.unb.br/matriculaweb/graduacao/"
 CURRICULUM_URL = "https://sigraweb.unb.br/matriculaweb/graduacao/curriculo.aspx?cod="
 COURSE_URL = "https://sigraweb.unb.br"
 
+class Course:
+    def __init__(self):
+        self.organ = None
+        self.id = None
+        self.denomination = None
+        self.validity = None
+        self.requirements = None
+        self.program = None
+        self.menu = None
+        self.bibliography = None
+        self.level = None
+        self.blob = None
+    def set_blob_data(self, data):
+        self.blob = data
+
 class MajorsScraping:
     def __init__(self):
         self.id_major_relation = {}
-        self.sub_major_relations = {}
-        self.majors_links = []
+        self.major_courses = {}
 
     def __get_primary_majors_links(self):
         page = requests.get(MAIN_URL)
@@ -67,7 +81,6 @@ class MajorsScraping:
                             sub_major_keys = sub_major[i].split(' - ')
                             self.id_major_relation[sub_major_keys[0]] = sub_major_keys[1]
 
-                            sub_major[i] = sub_major[i] + '\n'
                 except AttributeError: 
                     print("TABLE NOT FOUND, ERROR IN WEBSITE")
                 bar.next()
@@ -79,7 +92,91 @@ class MajorsScraping:
         self.__get_sub_majors_links()
         return list(self.id_major_relation.keys())
 
-'''
+    def __recursive_all_sibling(class_type, saving_vector):
+        saving_vector.append(class_type.get_text())
+        try:
+            recursive_all_sibling(class_type.next_sibling, saving_vector)
+        except AttributeError:
+            return
+
+    def __get_major_courses(self, major_id):
+        major_url = CURRICULUM_URL+major_id
+        page = requests.get(major_url)
+        
+        if page.status_code == 404:
+            print("PAGE NOT FOUND")
+            return
+
+        self.major_courses[major_id] = []
+
+        src = page.content
+        soup = BeautifulSoup(src, 'html.parser')
+
+        link_courses = []
+        for link in soup.find_all('a'):
+            href = link.get('href')
+            if href.find('/matriculaweb/graduacao/disciplina.aspx?cod=') != -1:
+                link_courses.append(href)
+
+        with Bar('Getting Courses From '+self.id_major_relation[major_id], max=len(link_courses)) as bar:
+            for link in link_courses:    
+                url = COURSE_URL + link
+                page = requests.get(url)
+                
+                if page.status_code == 404:
+                    print("PAGE NOT FOUND")
+                    return
+                
+                src = page.content
+                soup = BeautifulSoup(src, 'html.parser')
+                content = soup.find('body').find('div')
+
+                course_content = []
+                try:
+                    tr = content.find('tr')
+                    recursive_all_sibling(tr, course_content)
+
+                    new_course = Course()
+                    new_course.set_blob_data(course_content)
+
+                    self.major_courses[major_id].append(new_course)
+                except AttributeError:
+                    print("COURSE NOT FOUND, ERROR IN WEBSITE")
+                
+                bar.next()
+
+
+    def get_majors_curriculum(self):
+        #try:
+        #    os.mkdir('majors_curriculum')
+        #except FileExistsError:
+        #    pass
+
+        majors_id = self.get_majors_id()
+        #with Bar('Majors Curriculum Analyzed', max=len(majors_id)) as bar:
+        #    for major_id in majors_id:
+                
+
+        '''
+                url = CURRICULUM_URL + major_id
+                page = requests.get(url)
+
+                if page.status_code == 404:
+                    print('PAGE NOT FOUND')
+                    bar.next()
+                    next
+
+                src = page.content
+                soup = BeautifulSoup(src, 'html.parser')
+                content = soup.find('body').find('div')
+        '''
+                #bar.next()
+        self.__get_major_courses(majors_id[0])
+
+
+
+
+
 def recursive_all_sibling(class_type, saving_vector):
     saving_vector.append(class_type.get_text() + '\n')
     try:
@@ -87,7 +184,7 @@ def recursive_all_sibling(class_type, saving_vector):
     except AttributeError:
         return
 
-
+'''
 def get_majors():
     page = requests.get(URL_ORIGINAL)
     link_majors = []
@@ -259,4 +356,4 @@ def scraping_site():
 #scraping_site_majors_curriculum()
 #scraping_site_curriculum("8150 - ADMINISTRAÇÃO")
 majors = MajorsScraping()
-print(len(majors.get_majors_id()))
+print(majors.get_majors_curriculum())
