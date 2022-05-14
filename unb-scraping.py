@@ -8,14 +8,72 @@ Created on Thu May 12 19:02:54 2022
 import requests
 from bs4 import BeautifulSoup
 import os
+from progress.bar import Bar
 
+MAIN_URL = "https://sigraweb.unb.br/matriculaweb/graduacao/curso_rel.aspx?cod=1"
+MAJOR_URL = "https://sigraweb.unb.br/matriculaweb/graduacao/"
+CURRICULUM_URL = "https://sigraweb.unb.br/matriculaweb/graduacao/curriculo.aspx?cod="
+COURSE_URL = "https://sigraweb.unb.br"
 
+class MajorsScraping:
+    def __init__(self):
+        self.id_major_relation = {}
+        self.majors_links = []
 
-URL_ORIGINAL = "https://sigraweb.unb.br/matriculaweb/graduacao/curso_rel.aspx?cod=1"
-URL_MAJOR = "https://sigraweb.unb.br/matriculaweb/graduacao/"
-URL_CURRICULUM = "https://sigraweb.unb.br/matriculaweb/graduacao/curriculo.aspx?cod="
-URL_COURSE = "https://sigraweb.unb.br"
+    def __get_majors_links(self):
+        page = requests.get(MAIN_URL)
+        majors_links = []
 
+        if page.status_code == 404:
+            print("PAGE NOT FOUND")
+            return
+
+        src = page.content
+        soup = BeautifulSoup(src, 'html.parser')
+        for link in soup.find_all('a'):
+            href = link.get('href')
+            if href.find('curso_dados') != -1:
+                majors_links.append(href)
+
+        return majors_links
+
+    def get_major_structure(self):
+        majors_links = self.__get_majors_links()
+        sub_major = []
+
+        with Bar('Majors Analyzed', max=len(majors_links)) as bar:
+            for major_code in majors_links:
+                url = MAJOR_URL+major_code
+                page = requests.get(url)
+
+                if page.status_code == 404:
+                    print('404 ERROR - MAJOR NOT FOUND')
+                    bar.next()
+                    next
+
+                src = page.content
+                soup = BeautifulSoup(src, 'html.parser')
+                try: 
+                    for td in soup.findAll("td"):
+                        try:
+                            if int(td["colspan"]) == 3:
+                                sub_major.append(td.get_text())
+                        except(ValueError, KeyError):
+                            pass
+                        for i in range(len(sub_major)):
+                            sub_major[i] = sub_major[i].replace('\t', '').replace('\n', '').replace('\r', '')
+
+                            sub_major_keys = sub_major[i].split(' - ')
+                            self.id_major_relation[sub_major_keys[0]] = sub_major_keys[1]
+
+                            sub_major[i] = sub_major[i] + '\n'
+                except AttributeError: 
+                    print("TABLE NOT FOUND, ERROR IN WEBSITE")
+                bar.next()
+
+        print(self.id_major_relation)
+
+'''
 def recursive_all_sibling(class_type, saving_vector):
     saving_vector.append(class_type.get_text() + '\n')
     try:
@@ -24,50 +82,53 @@ def recursive_all_sibling(class_type, saving_vector):
         return
 
 
-
-def scraping_site_majors():
-    
+def get_majors():
     page = requests.get(URL_ORIGINAL)
     link_majors = []
     sub_major = []
+
     if page.status_code == 404:
-            print("PAGE NOT FOUND")
-            return
+        print("PAGE NOT FOUND")
+        return
+
     src = page.content
     soup = BeautifulSoup(src, 'html.parser')
+
     for link in soup.find_all('a'):
         href = link.get('href')
         if href.find('curso_dados') != -1:
             link_majors.append(href)
+    print(link_majors)
+    
     for x in link_majors:
         url = URL_MAJOR + x
         page = requests.get(url)
         
         if page.status_code == 404:
-                print("PAGE NOT FOUND")
-                return
+            print("PAGE NOT FOUND")
+            return
         
         src = page.content
         soup = BeautifulSoup(src, 'html.parser')
         try: 
-            for x in soup.findAll("td"):
+            for td in soup.findAll("td"):
                 try:
-                    if int(x["colspan"]) == 3:
+                    if int(td["colspan"]) == 3:
                         sub_major.append(x.get_text())
                 except(ValueError, KeyError):
                     pass
                 for i in range(len(sub_major)):
-                    sub_major[i] = sub_major[i] 
                     sub_major[i] = sub_major[i].replace('\t', '').replace('\n', '').replace('\r', '')
                     sub_major[i] = sub_major[i] + '\n'
                     print(sub_major[i])
         except AttributeError: 
             print("TABLE NOT FOUND, ERROR IN WEBSITE")
+
     with open('major_list.txt', 'w') as file_major_list:
         file_major_list.writelines(sub_major)
+    '''
 
-
-
+'''
 def scraping_site_curriculum(x):
     
     link_courses = []
@@ -187,6 +248,9 @@ def scraping_site():
     print(sub_major)
     
 """
-#scraping_site_majors()
-scraping_site_majors_curriculum()
+'''
+#get_majors()
+#scraping_site_majors_curriculum()
 #scraping_site_curriculum("8150 - ADMINISTRAÇÃO")
+majors = MajorsScraping()
+majors.get_major_structure()
